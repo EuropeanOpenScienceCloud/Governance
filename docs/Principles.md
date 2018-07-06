@@ -10,9 +10,9 @@ EOSC Governance Principles
 >Those groups who can affect or are affected by the achievements of an organization's purpose should be given the opportunity to comment and input into the development of decisions that affect them” 
 >Stakeholder Engagement: A Road Map to Meaningful Engagement – Cranfield School of Management
 
-A key requirement in the strategic requirements listed in Section 2 is the need for the EOSC to be stakeholder driven. It should be “a multi-level and multi-stakeholder governance that ensures a representation for the main stakeholder categories and disciplines, integrating both the national and European levels of authority.” (OSPP Recommendations – Section 2.3). It is therefore important for all stakeholders and all stakeholder roles to be able to participate in the governance.
+A key requirement in the strategic requirements is the need for the EOSC to be stakeholder driven. It should be “a multi-level and multi-stakeholder governance that ensures a representation for the main stakeholder categories and disciplines, integrating both the national and European levels of authority.” (OSPP Recommendations). It is therefore important for all stakeholders and all stakeholder roles to be able to participate in the governance.
 
-Moreover, to be “open to all players, public and private, European and non-European” (HLEG Recommendations – Section 2.2), it can borrow from Internet and Digital Governance (see Figure 3), following the analogies between the development of EOSC and the development of the Internet suggested in the HLEG report, that
+Moreover, to be “open to all players, public and private, European and non-European” (HLEG Recommendations), it can borrow from Internet and Digital Governance , following the analogies between the development of EOSC and the development of the Internet suggested in the HLEG report, that
 
 >No one person, organisation, or company governs the digital space ... Solutions to issues in each layer include policies, best practices, standards, specifications, and tools developed by the collaboration of stakeholders and experts from actors in business, governments, academia, technical, and civil society. 
 
