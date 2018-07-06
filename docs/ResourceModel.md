@@ -7,7 +7,9 @@ weight: 3
 EOSC Resource Model
 ------------------------------------------------
 
-> ### EOSC Resource = Services + Data + People 
+<table>
+<tr><td><strong>EOSC Resource = Services + Data + People</strong></td></tr>
+</table> 
 
 At the centre of this model are the EOSC Resources themselves – the EOSC Resources cover the range of services and facilities needed to support Open Science and Research. These include technical services such as analytics and computational services, cloud services, thematic services tuned to particular research disciplines, e-infrastructure and middleware services such as access identity management; but also knowledge resources such as datasets, storage, digital library and archives; access services such as a service catalogue and portals; scientific instruments and facilities; and facilitation activities such as training, software development support and consultancy.
 
