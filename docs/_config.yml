@@ -1,0 +1,15 @@
+remote_theme: chromatical/jekyll-materialdocs
+
+title: EOSC Governance Framework
+highlight: rouge
+logo: assets/eoscpilot-logo.png
+mdl_colors: light_blue-blue
+copyright: EOSCPilot.eu
+search: true
+menu_style: dropdown
+
+# Build settings
+markdown: kramdown
+
+plugins:
+- jekyll-remote-theme
