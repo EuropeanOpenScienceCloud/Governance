@@ -1,7 +1,7 @@
 remote_theme: chromatical/jekyll-materialdocs
 
 title: EOSC Governance Framework
-description: EOSCPilot Deliverable D2.6: Governance framework for a European Open Science Cloud
+description: EOSCPilot Deliverable D2.6 (Governance framework for a European Open Science Cloud)
 copyright:
 logo: assets/eoscpilot-logo.png
 url: "https://europeanopensciencecloud.github.io"
