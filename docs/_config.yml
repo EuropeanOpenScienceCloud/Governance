@@ -16,7 +16,3 @@ markdown: kramdown
 
 plugins:
 - jekyll-remote-theme
-
-
-title: LCF 1.0.1
-
