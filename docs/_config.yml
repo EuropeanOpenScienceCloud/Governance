@@ -1,10 +1,13 @@
 remote_theme: chromatical/jekyll-materialdocs
 
 title: EOSC Governance Framework
-highlight: rouge
+description: EOSCPilot Deliverable D2.6: Governance framework for a European Open Science Cloud
+copyright:
 logo: assets/eoscpilot-logo.png
+url: "https://europeanopensciencecloud.github.io"
+baseurl: "/Governance"
+highlight: rouge
 mdl_colors: light_blue-blue
-copyright: EOSCPilot.eu
 search: true
 menu_style: dropdown
 
@@ -13,3 +16,7 @@ markdown: kramdown
 
 plugins:
 - jekyll-remote-theme
+
+
+title: LCF 1.0.1
+
