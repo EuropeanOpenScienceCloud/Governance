@@ -23,8 +23,8 @@ Committee of Top System Managements i.e. those responsible / accountable for the
 
 ## EOSC Technical Oversight Committee
 
-Handle quality assignment requests, and quality measure monitoring, liaising closely with the EOSC System Steering Committee and overseeing the scientific discipline technical subcommittees.
+Handle quality assignment requests, and quality measure monitoring, liaising closely with the EOSC System Steering Committee and overseeing the scientific discipline technical subcommittees. The team will rely on internationally set standards that can be audited by external parties and relies on their input for quality assignment. They will also keep track of service quality monitoring
 
 ## EOSC Scientific Discipline Technical Sub-Committees
 
-Multiple committees defining and checking quality measures on behalf of scientific commnunities. Can be formed by any community that can sustain such an effort for longer periods of time.
+Multiple committees defining and checking quality measures on behalf of scientific commnunities. Can be formed by any community that can sustain such an effort for longer periods of time. They will report to the EOSC TC but assign and maintain quality measures independently.
