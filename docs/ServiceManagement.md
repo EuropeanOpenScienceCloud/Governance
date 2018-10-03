@@ -1,6 +1,7 @@
 ﻿---
-title: EOSC Serivce Management Model
-menu: Governance Model
+title: EOSC Service Management Model
+menu: EOSC Service Management Model
+parent: GovernanceModel.md
 weight: 4
 ---
 
