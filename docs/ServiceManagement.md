@@ -7,7 +7,7 @@ weight: 4
 EOSC Service Management Model
 -----------------------------
 
-![Community Governance](assets/ServiceManagement.png) 
+![Service Management Governance](assets/ServiceManagement.png) 
 
 ## EOSC Service Portfolio Management Committee
 
