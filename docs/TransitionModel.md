@@ -33,40 +33,32 @@ EOSCpilot working groups are part of the stakeholder forum created and populated
 | Members: MS + EC | Members: MS + EC (DG RTD and DG CNECT) |
 | Function:
 - --defines strategic objectives
-- --measure the impact and effectiveness of EOSC
- | Function:
+- --measure the impact and effectiveness of EOSC | Function:
 - --ensures effective supervision of the implementation
 - --decides strategic orientation of EOSC and commitment and financial support
 - --institutional and political oversight
 - --approves members of Executive Board
 - --approves annual workplan
 - --assesses progress of EOSC implementation
-- --coordinates with other MS/EC initiatives
- |
+- --coordinates with other MS/EC initiatives |
 | **EXECUTIVE** | Name: Executive | Name: Executive Board (+ Coordination Structure?) |
 | Members: not clear | Members: max. 10 chosen by the EOSC Board from ESFRI infras, eInfras, scientific organisations, university associations etc. |
 | Function:
-- --ensures EOSC delivers to meet the needs of the Stakeholders
- | Function:
+- --ensures EOSC delivers to meet the needs of the Stakeholders | Function:
 - --ensures proper implementation and accountability
 - --proposes the strategy &amp; workplan
 - --drafts the Rules of Participation
 - --oversees and steer the implementation of the workplan together with the working groups (WGs)
 - --monitors the implementation of EOSC (by 2020)
-- --proposes how broaden user base to public sector and industry
- |
+- --proposes how broaden user base to public sector and industry |
 | **ADVISORY** | Name: Steering (incl. Stakeholder Forum) | Name: Advisory (Stakeholder Forum) |
 | Members: individuals including organisations\institutional representatives; multiple subforums (consumers, providers etc.) | Members: broad participation by organisations\institutions\communities (possibly decided by EOSC Board), single representative per organisation\institution\community – requires adherence to the principles of EOSC |
 | Function:
 - --Recommends\proposes within communities best practices, standards, principles of engagement
 - --Recommends\proposes &quot;Rules of Engagement for service provision in the EOSC&quot; from HLEG group report
-- --Recommends\proposes scientific and technical requirements of the EOSC
- | Function:
+- --Recommends\proposes scientific and technical requirements of the EOSC | Function:
 - --Intelligence gathering and Consultative role
-- --Expertise but no decision-making body
- |
-
-
+- --Expertise but no decision-making body |
 
 
 ![Stakeholder Forum Crosswalk](assets/StakeholderCrosswalk.png)
