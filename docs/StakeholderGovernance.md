@@ -1,12 +1,13 @@
----
-title: EOSC Stakeholder Forum
-menu: EOSC Stakeholder Forum
+﻿---
+title: EOSC Stakeholder Governance
+menu: EOSC Stakeholder Governance
 parent: GovernanceModel.md
 weight: 3
 ---
 
-EOSC Stakeholder Forum
+EOSC Stakeholder Governance
 ----------------------
+
 
 ## Stakeholders
 
@@ -70,3 +71,14 @@ The table below illustrates how various community organisations map to this mode
 | **Standing Groups** |	Internet Engineering Steering Group and Area Directors | Interest Groups | N/A | Member Sections | Interest Groups, Business and Community Groups |
 | **Working Groups** | Working Groups | Working Groups | Working Groups | Technical Committees | Working Groups |
 | **Emergent Topic Groups** | Birds of a Feather (BOF) session at an IETF meeting | Birds of a Feather (BOF) session at an RDA meeting | N/A | Proposed Technical Committee Discussion List | Discussion Lists |
+
+![Stakeholder Governance](assets/StakeholdersOverview.png)
+
+
+## EOSC Technical Oversight Committee
+
+Handle quality assignment requests, and quality measure monitoring, liaising closely with the EOSC System Steering Committee and overseeing the scientific discipline technical subcommittees. The team will rely on internationally set standards that can be audited by external parties and relies on their input for quality assignment. They will also keep track of service quality monitoring
+
+## EOSC Scientific Discipline Technical Sub-Committees
+
+Multiple committees defining and checking quality measures on behalf of scientific commnunities. Can be formed by any community that can sustain such an effort for longer periods of time. They will report to the EOSC TC but assign and maintain quality measures independently.
