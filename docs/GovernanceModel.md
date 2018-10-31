@@ -34,4 +34,4 @@ The Stakeholder layer would allow the stakeholders to determine the requirements
  
 For example, a scientific discipline (or disciplines) within the Steering layer might define data interoperability and re-use principles for data within their domains. The Strategic layer would translate this into strategic objectives and requirements for resource within EOSC which handle such data. The Executive would have responsibility for ensuring such resources existed within EOSC, and would receive input from the Steering layer on how well these resources are in enabling data interoperability and re-use. Alternatively, communities within the Steering layer might identify key areas where training and support are required, the Strategic layer would again translate these to objectives, the Executive would ensure that there were resources within EOSC to meet these training and support requirements, and the Steering would report how effective they are.
 
-![Governance Decision Flow](assets/MasterView.png.png)
+![Governance Decision Flow](assets/MasterView.png)
