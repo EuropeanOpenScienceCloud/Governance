@@ -1,14 +1,29 @@
----
-title: EOSC Stakeholder Forum
-menu: EOSC Stakeholder Forum
+﻿---
+title: EOSC Stakeholder Governance
+menu: EOSC Stakeholder Governance
 parent: GovernanceModel.md
 weight: 3
 ---
 
-EOSC Stakeholder Forum
+EOSC Stakeholder Governance
 ----------------------
 
-## Stakeholders
+##Overview
+
+![Stakeholder Governance](assets/StakeholdersOverview.png)
+
+
+### EOSC Technical Oversight Committee
+
+Handle quality assignment requests, and quality measure monitoring, liaising closely with the EOSC System Steering Committee and overseeing the scientific discipline technical subcommittees. The team will rely on internationally set standards that can be audited by external parties and relies on their input for quality assignment. They will also keep track of service quality monitoring
+
+### EOSC Scientific Discipline Technical Sub-Committees
+
+Multiple committees defining and checking quality measures on behalf of scientific commnunities. Can be formed by any community that can sustain such an effort for longer periods of time. They will report to the EOSC TC but assign and maintain quality measures independently.
+
+
+
+## Membership and Roles
 
 The framework concentrates on three stakeholder roles, understanding that different stakeholders can play multiple roles, or different roles are different points in the research lifecycle or within their organisation.
 
@@ -26,8 +41,8 @@ In addition, there are some additional roles which are covered by the above stak
 | **Funder** | Provides funding for research on a local, national or international level | Sub-role within Decision-makers |
 | **Policy-makers** | Regulates policy at a local, national or regional level.	Sub-role within Decision-makers |
 
-## Governance
-The Stakeholder Forum is a key component of the Steering layer.  The Stakeholder Forum should consist of multiple sub-forums representing the interests of Stakeholder Roles of Consumers and Providers, including those in the supplementary role of Intermediaries. Whilst these might have their own working groups, it is important that there is also cross working between these stakeholder roles.
+## Responsibilities
+he Stakeholder Forum should consist of multiple sub-forums representing the interests of Stakeholder Roles of Consumers and Providers, including those in the supplementary role of Consumer-Providers. Whilst these might have their own working groups, it is important that there is also cross working between these stakeholder roles.
 
 The structure of the Stakeholder Forum in the Steering layer is key for the Governance Decision Flow Model to be effective, to allow participation from all stakeholders both large and small, and to be open and transparent. To achieve this, any structure for the Stakeholder Forum use the key principles of ISO 38500 (Governance of IT)  as guiding principles, namely:
 * Responsibility –Stakeholders know their responsibilities, both in terms of demand and supply of EOSC resources and have the authority to meet them.
@@ -70,3 +85,4 @@ The table below illustrates how various community organisations map to this mode
 | **Standing Groups** |	Internet Engineering Steering Group and Area Directors | Interest Groups | N/A | Member Sections | Interest Groups, Business and Community Groups |
 | **Working Groups** | Working Groups | Working Groups | Working Groups | Technical Committees | Working Groups |
 | **Emergent Topic Groups** | Birds of a Feather (BOF) session at an IETF meeting | Birds of a Feather (BOF) session at an RDA meeting | N/A | Proposed Technical Committee Discussion List | Discussion Lists |
+
