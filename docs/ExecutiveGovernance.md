@@ -2,7 +2,7 @@
 title: EOSC Executive Governance
 menu: EOSC Executive Governance
 parent: GovernanceModel.md
-weight: 2
+weight: 3
 ---
 
 EOSC Executive Governance
