@@ -2,14 +2,11 @@
 title: EOSC Stakeholder Governance
 menu: EOSC Stakeholder Governance
 parent: GovernanceModel.md
-weight: 3
+weight: 2
 ---
 
 EOSC Stakeholder Governance
 ----------------------
-
-##Overview
-
 ![Stakeholder Governance](assets/StakeholdersOverview.png)
 
 The Stakeholder forum would have three key pillars, approximately mapping to the EIF layers of Technical, Organisational and Legal respectively:
@@ -20,7 +17,7 @@ The Stakeholder forum would have three key pillars, approximately mapping to the
 
 The European Interoperabiltiy Framework also includes the concept of overlapping domains and this can be used to understand how different communities would need to interact. This can be applied to scientific and research domains, comparable to the Domain Interoperability Frameworks in the diagram. Each scientific domain has its own best practices and standards, and the role of EOSC is to determine and coordinate the overlap between these different domains. In this way, it provides “guidance only where guidance is due”. It also applies to how different providers and intermediaries should engage with the EOSC Governance, in that it is the intersection of practices and standards between International, National and Local provision of resources which is important for EOSC. This is the principle behind the various subcommittees and panels within the three pillars.
 
-![European Interoperability Framework](EuropeanInteroperabilityFramework.png)
+![European Interoperability Framework](assets/EuropeanInteroperabilityFramework.png)
 
 There are a number of models used in other organisations which were considerd in structuring the Stakeholder Model. Examples include the IETF  (for internet standards), RDA  (for Research Data Management), WISE Community  (for e-infrastructure security), OASIS  (for Web Service and metadata standards) and W3C  (for Web standards). The main differences between these concern their legal and financial structures, but in terms of governance, they can broadly be modelled to two or more of the levels outlined below.
  

@@ -1,7 +1,7 @@
 ---
 title: EOSC Governance Stakeholders
 menu: Principles
-parent: principles.md
+parent: Principles.md
 weight: 2
 ---
 
