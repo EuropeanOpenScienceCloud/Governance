@@ -1,11 +1,11 @@
 ---
-title: EOSC Governance Stakeholders
-menu: Principles
+title: EOSC Governance Stakeholders Roles
+menu: Stakeholder Roles
 parent: Principles.md
 weight: 2
 ---
 
-EOSC Governance Stakeholders
+EOSC Governance Stakeholder Roles
 --------------------------
 
 The framework concentrates on three stakeholder roles, understanding that different stakeholders can play multiple roles, or different roles are different points in the research lifecycle or within their organisation.
