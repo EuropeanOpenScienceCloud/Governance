@@ -1,11 +1,11 @@
 ﻿---
-title: EOSC Stakeholder Governance
-menu: EOSC Stakeholder Governance
+title: EOSC Stakeholder Engagement Governance
+menu: EOSC Stakeholder Engagement Governance
 parent: GovernanceModel.md
 weight: 2
 ---
 
-EOSC Stakeholder Governance
+EOSC Stakeholder Engagement Governance
 ----------------------
 ![Stakeholder Governance](assets/StakeholdersOverview.png)
 
