@@ -22,3 +22,10 @@ European Open Science Cloud Governance Framework
 <p>This document outlines framework for a stakeholder driven governance and decision-making structure.</p>
 </td></tr>
 </table> 
+
+<table>
+<tr><td>
+  <p>This document is maintained as a github repository at <a href="https://github.com/EuropeanOpenScienceCloud/Governance">https://github.com/EuropeanOpenScienceCloud/Governance</a></p>
+  <p>Contributions to the framework are welcome and can be submitted via the github repository.</p>
+</td></tr>
+</table> 
