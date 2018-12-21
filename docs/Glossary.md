@@ -1,12 +1,28 @@
----
-title: EOSC Governance Framework - Glossary
-menu: Glossary
-weight: 6
----
+Glossary {#glossary .Appendix1}
+========
 
-EOSC Governance Framework - Glossary
-------------------------------------
-
-| Term | Definition |
-|------|------------|
-| **EOSC**| European Open Science Cloud |
+  Term                                  Explanation
+  ------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  EOSC                                  **European Open Science Cloud**
+  EC                                    European Commission
+  EIF                                   European Interoperability Framework
+  EOSC Core Resource                    EOSC Resources, services and processes that are needed to integrate and enable access to the various resources federated in the EOSC
+  EOSC Resource                         the range of services and facilities needed to support Open Science and Research. These include technical services such as analytics and computational services, cloud services, thematic services tuned to particular research disciplines, e-infrastructure and middleware services such as access identity management; but also knowledge resources such as datasets, storage, digital library and archives; access services such as a service catalogue and portals; scientific instruments and facilities; and facilitation activities such as training, software development support and consultancy
+  European Interoperability Framework   EC framework giving specific guidance on how to set up interoperable digital public services.
+  H2020                                 Horizon 2020 is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over 7 years (2014 to 2020) -- in addition to the private investment that this money will attract. It promises more breakthroughs, discoveries and world-firsts by taking great ideas from the lab to the market.
+  HLEG                                  High Level Expert Group
+  IETF                                  Internet Engineering Task Force
+  OASIS                                 OASIS is a non-profit consortium that drives the development, convergence and adoption of open standards for the global information society.
+  Open Innovation                       According to EC, the basic premise of Open Innovation is to introduce more actors in the innovation process so that knowledge can circulate more freely and be transformed into products and services that create new markets, fostering a stronger culture of entrepreneurship.
+  Open Science                          The movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional.
+  OSPP                                  Open Science Policy Platform
+  Project partners                      The EOSCpilot project partners
+  RACI                                  **RACI** is an acronym that stands for responsible, accountable, consulted and informed. A **RACI** chart is a matrix of all the activities or decision-making authorities undertaken in an organisation set against all the people or roles
+  RDA                                   Research Data Alliance
+  Research Infrastructures              Research infrastructures (RIs) are facilities, resources and services used by the science community to conduct research and foster innovation.
+  SMEs                                  Small and medium-sized enterprises
+  Standing Committee\\Group             A long term committee or group with a long term or indefinite objectives and terms of reference
+  Subsidiarity Principle                The principle that the idea that political action should be taken as close to the citizen as possible. This means that in an instance where the EU and a member state are both able to take action, action should ordinarily be taken by the member state Within the research context, this means that access to resources (scientific, IT, etc.) should be should be through local or national institutions.
+  VREs                                  Virtual Research Environments
+  W3C                                   World Wide Web Consortium
+  Working Committee\\Group              A short term committee or group with a defined time limited term of reference
