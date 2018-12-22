@@ -29,11 +29,11 @@ future development of the European Open Science Cloud (EOSC), and to
 identify appropriate federated governance model(s) and decision-making
 structure for it (see Figure 2).
 
-<img src="./Governance/docs/Introduction/media/image1.png" style="width:6.29921in;height:2.90157in" />
+<img src="Introduction/media/image1.png" style="width:6.29921in;height:2.90157in" />
 
 Figure 2 - EOSCPilot WP2 Governance Outline
 
-<img src="./Governance/docs/Introduction/media/image2.png" style="width:2.77153in;height:2.53403in" />As
+<img src="Introduction/media/image2.png" style="width:2.77153in;height:2.53403in" />As
 part of that objective, this document outlines an framework for a
 stakeholder driven governance and decision-making structure which could
 be used after the initial implementation phase of the EOSC.

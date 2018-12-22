@@ -24,7 +24,7 @@ decisions about what actions to take in a community and to measure their
 impact and effectiveness.[^1] The interaction between these “skills” is
 shown in Figure 9.
 
-<img src="./Governance/docs/GovernanceModel/media/image1.png" style="width:5.52852in;height:2.26667in" />
+<img src="GovernanceModel/media/image1.png" style="width:5.52852in;height:2.26667in" />
 
 Figure 13 - Effective Community Governance[^2]
 
@@ -48,7 +48,7 @@ Things Done* skill by ensuring that the EOSC delivers to meet the needs
 of the stakeholders through the strategic objectives set by the
 Institutional layer. These layers are illustrated in Figure 10.
 
-<img src="./Governance/docs/GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:5.83333in;height:2.48413in" />
+<img src="GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:5.83333in;height:2.48413in" />
 
 Figure 14 - EOSC Governance Layers
 
@@ -71,7 +71,7 @@ standards and practices, and a report back from the **Executive** to the
 and how effective the strategic goals are at capturing the real needs of
 the communities. This is outlined in Figure 11.
 
-<img src="./Governance/docs/GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:5.83333in;height:5.33647in" />
+<img src="GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:5.83333in;height:5.33647in" />
 
 Figure 15 - Community Governance Model for EOSC
 
@@ -96,7 +96,7 @@ how well the EOSC is meeting their requirements at an operational level,
 and the **Executive** would report this against the strategic objective
 to the Strategic layer.
 
-<img src="./Governance/docs/GovernanceModel/media/image4.png" style="width:6.21111in;height:4.17775in" />
+<img src="GovernanceModel/media/image4.png" style="width:6.21111in;height:4.17775in" />
 
 Figure 16 - Governance Decision Flow
 

@@ -201,7 +201,7 @@ governance structure for the initial implementation phase of the EOSC.
 It is envisaged that this can transition to the framework described in
 the deliverable
 
-<img src="./Governance/docs/StrategicRequirements/media/image1.png" alt="SWD Governance" style="width:4.06667in;height:2.91826in" />
+<img src="StrategicRequirements/media/image1.png" alt="SWD Governance" style="width:4.06667in;height:2.91826in" />
 
 Figure 4 - Staff Working Document Governance Structure
 
@@ -325,14 +325,14 @@ users’ needs, and in particular taking over the running of working
 groups, whilst the Executive adopts a more operational and delivery
 role.
 
-<img src="./Governance/docs/StrategicRequirements/media/image2.png" style="width:5.87122in;height:2.95347in" />
+<img src="StrategicRequirements/media/image2.png" style="width:5.87122in;height:2.95347in" />
 
 Figure 5 - Governance Transition
 
 In addition, the coordinating structure would evolve into a delivery
 model for EOSC resources and services.
 
-<img src="./Governance/docs/StrategicRequirements/media/image3.png" alt="Delivery Model Crosswalk" style="width:6.69375in;height:3.82083in" />
+<img src="StrategicRequirements/media/image3.png" alt="Delivery Model Crosswalk" style="width:6.69375in;height:3.82083in" />
 
 Figure 6 - Delivery Transition
 
@@ -343,7 +343,7 @@ The report of the Second High Level Expert Group on the Open Science
 Cloud (Prompting an EOSC in Practice)[^7], supports the SWD governance
 model for the initial implementation of the EOSC as outlined below:
 
-<img src="./Governance/docs/StrategicRequirements/media/image4.png" style="width:6.69375in;height:3in" />
+<img src="StrategicRequirements/media/image4.png" style="width:6.69375in;height:3in" />
 
 Figure 7 - 2nd HLEG Governance Overview
 
