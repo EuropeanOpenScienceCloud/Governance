@@ -46,7 +46,7 @@ The Governance Model is derived from the European Interoperability Framework wit
 * Semantic interoperability ensures that the precise format and meaning of exchanged data and information is preserved and understood throughout exchanges between parties.
 * Technical interoperability covers   the   applications   and   infrastructures   linking   systems   and   services.  Aspects of technical interoperability include interface specifications, interconnection services, data integration services, data presentation and exchange, and secure communication protocols.
 
-![assets/European Interoperability Layers](EuropeanInteroperabilityLayers.png)
+![European Interoperability Layers](assets/EuropeanInteroperabilityLayers.png)
 
 Within the context of EOSC, Legal Interoperability also includes Policy interoperability, and Rules of Participation for EOSC; and Organisational Interoperability includes both Strategy and Funding. 
 
