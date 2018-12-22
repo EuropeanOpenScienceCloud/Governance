@@ -32,7 +32,7 @@ Framework with some slight re-interpretation of the four layers.
     services, data integration services, data presentation and exchange,
     and secure communication protocols.
 
-<img src="./Governance/docs/GovernanceStructure/media/image1.png" alt="European Interoperability Layers" style="width:6.66667in;height:3.575in" />
+<img src="GovernanceStructure/media/image1.png" alt="European Interoperability Layers" style="width:6.66667in;height:3.575in" />
 
 Figure 17 - European Interoperability Layers
 
@@ -47,7 +47,7 @@ responsibility of the Executive which would mirror the structure of the
 Stakeholder layer. Other strategic aspects of Organisational as well as
 oversight of all EIF layers would rest within the Strategic layer.
 
-<img src="./Governance/docs/GovernanceStructure/media/image2.png" style="width:9.54722in;height:5.91389in" />
+<img src="GovernanceStructure/media/image2.png" style="width:9.54722in;height:5.91389in" />
 
 Figure 18 - Overall Governance Structure
 
@@ -93,7 +93,7 @@ Stakeholder and Executive layers as outlined above.
 Strategic Governance
 --------------------
 
-<img src="./Governance/docs/GovernanceStructure/media/image3.png" alt="Strategic Governance" style="width:6.49167in;height:1.44167in" />
+<img src="GovernanceStructure/media/image3.png" alt="Strategic Governance" style="width:6.49167in;height:1.44167in" />
 
 Figure 19 - Strategic Governance
 
@@ -110,7 +110,7 @@ rather than **EU member countries**.
 Stakeholder Governance
 ----------------------
 
-<img src="./Governance/docs/GovernanceStructure/media/image4.png" style="width:5.35833in;height:6.6903in" />
+<img src="GovernanceStructure/media/image4.png" style="width:5.35833in;height:6.6903in" />
 
 Figure 20 - Stakeholder Governance
 
@@ -154,7 +154,7 @@ between International, National and Local provision of resources which
 is important for EOSC. This is the principle behind the various
 subcommittees and panels within the three pillars.
 
-<img src="./Governance/docs/GovernanceStructure/media/image5.png" alt="European Interoperability Framework" style="width:6.69167in;height:4.70833in" />
+<img src="GovernanceStructure/media/image5.png" alt="European Interoperability Framework" style="width:6.69167in;height:4.70833in" />
 
 Figure 21 - European Interoperability Framework Domains of Domains
 
@@ -167,7 +167,7 @@ between these concern their legal and financial structures, but in terms
 of governance, they can broadly be modelled to two or more of the levels
 outlined below.
 
-<img src="./Governance/docs/GovernanceStructure/media/image6.png" alt="Stakeholder Forum Governance outline" style="width:6.69167in;height:4.11667in" />
+<img src="GovernanceStructure/media/image6.png" alt="Stakeholder Forum Governance outline" style="width:6.69167in;height:4.11667in" />
 
 Figure 22 - Stakeholder Forum Overview
 
@@ -243,7 +243,7 @@ Any structure for the Stakeholder Forum use the key principles of ISO
     1.  Executive Governance
         --------------------
 
-<img src="./Governance/docs/GovernanceStructure/media/image7.png" style="width:5.475in;height:5.57187in" />
+<img src="GovernanceStructure/media/image7.png" style="width:5.475in;height:5.57187in" />
 
 Figure 23 - Executive Governance
 

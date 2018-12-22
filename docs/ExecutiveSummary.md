@@ -24,7 +24,7 @@ Science Cloud"**[^1]. This document also outlines the key differences to
 be addressed in moving from the implementation phase governance to this
 framework, and the reasons behind these.
 
-<img src="./Governance/docs/ExecutiveSummary/media/image1.png" style="width:2.77153in;height:2.53403in" />The
+<img src="ExecutiveSummary/media/image1.png" style="width:2.77153in;height:2.53403in" />The
 framework outlines:
 
 -   A three-layer governance model consisting of Strategic, Executive
