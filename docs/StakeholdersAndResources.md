@@ -15,7 +15,7 @@ of different stakeholder who would participate in and would both benefit
 from and provide benefits to the EOSC. Any effective governance
 structure would need to involve and take input from all these
 stakeholders. The key classes of stakeholder identified with the
-community is outlined in Table 2.
+community is outlined in Table 3.
 
 <table>
 <thead>
@@ -56,7 +56,7 @@ community is outlined in Table 2.
 <p>A Virtual Research Environment (VRE) is a community of practice, an organisation and a bundle of services which supports researchers by providing access to shared documents tools and resources they need during a research project. Some examples of VREs are EVER-EST, a VRE for research on Earth-science, and VRE4EIC, supporting a multi-disciplinary approach to research on climate change and energy sustainability.</p></td>
 </tr>
 <tr class="odd">
-<td><img src="StakeholdersAndResources/media/image8.png" style="width:0.3937in;height:0.3937in" />General Public</td>
+<td><img src="StakeholdersAndResources/media/image8.png" style="width:0.3937in;height:0.3937in" />General Public / Citizen Scientists</td>
 <td><strong>EOSC project will create a cross-border and multi-disciplinary open innovation environment with the aim of delivering its benefits to the final citizen as well. Democratization of science and open access to scientific data are indirectly providing their beneficial results to civil society. The activities and achievements of the EOSC and open science initiatives need to be linked with the everyday challenges, that citizens are sensitive to, such as public investments, new services and new job opportunities.</strong></td>
 </tr>
 <tr class="even">
@@ -77,7 +77,7 @@ Table 3 - EOSC Stakeholders
 The framework concentrates on three stakeholder *roles*, understanding
 that different stakeholders can play multiple roles, or different roles
 are different points in the research lifecycle or within their
-organisation. These are outlined in Table 3 (the stakeholders listed are
+organisation. These are outlined in Table 4 (the stakeholders listed are
 indicative and not meant to be exhaustive or exclusive).
 
 <table>
@@ -123,7 +123,7 @@ Table 4 - EOSC Primary Stakeholder Roles
 
 In addition, there are some additional roles which are covered by the
 above stakeholders, but worth explicitly articulating – these are in
-Table 4.
+Table 5.
 
 | Supplementary Role    | Description                                                                                                                                                                             | Relationship to Primary Roles              |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -166,11 +166,11 @@ There may also be some resources which may not be fully technically
 *compatible* with EOSC resources nor fully *compliant* with the
 Principles of Engagement, but which nevertheless outside are of value to
 EOSC consumers. These would still be usable by EOSC consumers as
-recommended by the HLEG that “It should be clear that non-EOSC approved
+recommended by the HLEG that *“It should be clear that non-EOSC approved
 players are free to explore any role in the Open Science ecosystem they
 wish, even if they do not adhere to the Principles of Engagement. They
 will just not be able to brand their services as EOSC
-approved/certified”.
+approved/certified”.*
 
 This is illustrated below. The EOSCPilot has co-developed Rules of
 Participation with the community, as well as developed a technical
@@ -189,7 +189,7 @@ To function, there will need to be some **Core Resources** underpinning
 the EOSC analogous to services the internet such as domain naming
 services etc.. Such resources might include the EOSC service catalogue,
 access and identity management, etc. The need for **Core Resources** was
-also identified by the OSPP EOSC Working Group (see Section 2.3) whose
+also identified by the OSPP EOSC Working Group (see Section 3.3) whose
 definition is “set of services and processes that are needed to
 integrate and enable access to the various resources federated in the
 EOSC”. The **Core Resources** will need to be directly commissioned and
@@ -224,7 +224,7 @@ advocacy to the Strategic layer and the Framework Programmes.
 ### Open Market
 
 To ensure that EOSC remains “open to all players, public and private,
-European and non-European” (Section 2.2), there may also be resources
+European and non-European” (Section 3.2), there may also be resources
 within EOSC which will not be directly compensated through EOSC, but
 through other means (including commercial resources paid directly by
 researchers or their institutions), but which nevertheless meet the

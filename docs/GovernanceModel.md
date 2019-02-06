@@ -22,7 +22,7 @@ community skills of *engaging citizens*, *measuring results*, and
 *getting things done* in order to help people and organisations make
 decisions about what actions to take in a community and to measure their
 impact and effectiveness.[^1] The interaction between these “skills” is
-shown in Figure 9.
+shown in Figure 13.
 
 <img src="GovernanceModel/media/image1.png" style="width:5.52852in;height:2.26667in" />
 
@@ -46,7 +46,7 @@ skill.
 Finally, the Executive\\Operational layer would map to the *Getting
 Things Done* skill by ensuring that the EOSC delivers to meet the needs
 of the stakeholders through the strategic objectives set by the
-Institutional layer. These layers are illustrated in Figure 10.
+Institutional layer. These layers are illustrated in Figure 14.
 
 <img src="GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:5.83333in;height:2.48413in" />
 
@@ -54,7 +54,7 @@ Figure 14 - EOSC Governance Layers
 
 The intersections of these skills and layers are important in delivering
 an effective governance structure for EOSC. The **Stakeholder** layer
-determines within its communities best practice, standards, principles
+determines within its communities’ best practice, standards, principles
 of engagement, in effect addressing the recommendations of “*Guidance
 only where guidance is due”* and “*Define Principles of Engagement for
 service provision in the EOSC”* from the HLEG group report, as well as
@@ -69,7 +69,7 @@ there is be a feedback loop between the **Stakeholder** and
 standards and practices, and a report back from the **Executive** to the
 **Strategic** layer on how effective the EOSC is meeting the strategy,
 and how effective the strategic goals are at capturing the real needs of
-the communities. This is outlined in Figure 11.
+the communities. This is outlined in Figure 15.
 
 <img src="GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:5.83333in;height:5.33647in" />
 

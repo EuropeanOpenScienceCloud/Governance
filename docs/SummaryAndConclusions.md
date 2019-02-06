@@ -10,7 +10,7 @@ Summary and Conclusions
 This document outlines a stakeholder driven governance framework for the
 long-term management and oversight of EOSC. It forms a natural evolution
 of the implementation phase governance structure established by the
-European Commission by
+European Commission by:
 
 1.  Extending the Executive to include standing groups performing
     important roles in terms of Legal (including policy), Organisational

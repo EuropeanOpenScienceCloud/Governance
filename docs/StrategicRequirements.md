@@ -210,7 +210,7 @@ one in this document:
 
 -   one is in the role of the INSTITUTIONAL layer. The SWD is very
     carefully detailing the role of the EOSC Board- they are the
-    decision making body, but they also decide who is in the Executive
+    decision-making body, but they also decide who is in the Executive
     board and who is in the Advisory layer.
 
 -   the second difference is in the importance and the function of the
@@ -338,6 +338,13 @@ Figure 6 - Delivery Transition
 
 Second HLEG Report
 ------------------
+
+Providing resources to support the EOSC will take place in a very
+heterogeneous landscape of e-infrastructures and service providers, with
+dispersed users at best aggregated around disciplinary poles and
+national infrastructures. Addressing this challenge requires the
+definition of a smallest common denominator, referred to here as the
+Minimum Viable Ecosystem (MVE) of the EOSC.
 
 The report of the Second High Level Expert Group on the Open Science
 Cloud (Prompting an EOSC in Practice)[^7], supports the SWD governance

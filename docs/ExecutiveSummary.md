@@ -24,6 +24,13 @@ Science Cloud"**[^1]. This document also outlines the key differences to
 be addressed in moving from the implementation phase governance to this
 framework, and the reasons behind these.
 
+The following report has been written at the time of the EOSC Portal
+definition, so it cannot fully reflect on how the Governance framework
+works viz-à-viz also the EOSC portal, the Service Catalogue and or the
+Marketplace and competence centres that are developed within EOSC-Hub.
+However these should be accommodatable within the three pillars of the
+proposed Executive structure.
+
 <img src="ExecutiveSummary/media/image1.png" style="width:2.77153in;height:2.53403in" />The
 framework outlines:
 

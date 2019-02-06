@@ -34,7 +34,7 @@ structure for it (see Figure 2).
 Figure 2 - EOSCPilot WP2 Governance Outline
 
 <img src="Introduction/media/image2.png" style="width:2.77153in;height:2.53403in" />As
-part of that objective, this document outlines an framework for a
+part of that objective, this document outlines a framework for a
 stakeholder driven governance and decision-making structure which could
 be used after the initial implementation phase of the EOSC.
 
@@ -55,6 +55,6 @@ This document is intended to become a living document owned by the
 community. For that purpose the contents of the most up to date version
 can be found on github at:
 
-<https://github.com/EuropeanOpenScienceCloud/Governance>
+https://github.com/EuropeanOpenScienceCloud/Governance
 
 

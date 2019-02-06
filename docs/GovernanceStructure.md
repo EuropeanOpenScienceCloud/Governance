@@ -40,6 +40,17 @@ Within the context of EOSC, Legal Interoperability also includes Policy
 interoperability, and Rules of Participation for EOSC; and
 Organisational Interoperability includes both Strategy and Funding.
 
+Currently, the Rules of Participation (RoP) are broad and can cover
+different aspects. It currently focuses on rules and guidelines for
+service organisations to promote and offer services through the EOS
+Catalogue & or Marketplace. In the EOSC-Portal evolution where the
+Governance model will need to address is on how Service Organisations
+are free to define their Rules of Participation to onboard services and
+could appear in as many different services catalogues, this could be on
+a national, institutional level as well as being “compliant” within the
+EOSC Service Catalogue/Marketplace which could comply to a different
+RoP.
+
 Legal, the resource allocation aspects of Organisational, and Technical
 would form three pillars within the Stakeholder layer, Semantic (in
 terms of operational implementation of all the EIF layers) would be the
@@ -76,7 +87,7 @@ Figure 18 - Overall Governance Structure
 <td><p>The Executive will include representation of those providing EOSC services – both core services essential for the federation of EOSC, and specific and specialized services. It will include three similar pillars to the Stakeholder layer - essentially being providing (in EIF terms) the Semantic (i.e. Operational) implementation of the three pillars in the Stakeholder layer:</p>
 <ul>
 <li><p>A <strong>Technical</strong> operational pillar ensuring that EOSC services meet the needs and standards of the communities consisting of the EOSC System Steering Committee, Service Portfolio Management Committee and EOSC System Executive Committee as defined in the EOSC Architecture and Service Management Framework.</p></li>
-<li><p>A <strong>Organisational</strong> operational pillar including a Resource Allocation Committee to ensure that communities have appropriate access to scare resources based on research excellence and impact, and a Financial and Commercial Steering Committee to oversee financial flows and procurement of resources</p></li>
+<li><p>An <strong>Organisational</strong> operational pillar including a Resource Allocation Committee to ensure that communities have appropriate access to scare resources based on research excellence and impact, and a Financial and Commercial Steering Committee to oversee financial flows and procurement of resources</p></li>
 <li><p>A B operational pillar, including a Policy Alignment Steering Committee to ensure necessary alignment of service provider policies both between providers and with national and international policies, and an Ethics and Legal Steering Committee to oversee ethical and legal policy issues for using and providing EOSC resouirces</p></li>
 </ul></td>
 </tr>
@@ -138,9 +149,15 @@ respectively:
 
 -   A **Policy and Rules of Participation Oversight Committee** to
     recommend research policy alignment – this will be informed by
-    research community specific sub-committees
+    research community specific sub-committees.
 
-The European Interoperabiltiy Framework also includes the concept of
+A further recommendation from the EOSC 2^nd^ HLEG would be to have the
+Stakeholders Forum should move its focus in 2019 to responding to a user
+centred approach and guaranteeing a: **“Voice of the Users”** with
+practical cases of how EOSC is making a difference to “how things were
+done previously” for them in their thematic area.
+
+The European Interoperability Framework also includes the concept of
 overlapping domains and this can be used to understand how different
 communities would need to interact. This can be applied to scientific
 and research domains, comparable to the Domain Interoperability
@@ -169,7 +186,7 @@ outlined below.
 
 <img src="GovernanceStructure/media/image6.png" alt="Stakeholder Forum Governance outline" style="width:6.69167in;height:4.11667in" />
 
-Figure 22 - Stakeholder Forum Overview
+Figure 22 - Stakeholders Forum Overview
 
 The model includes:
 
@@ -211,7 +228,7 @@ In terms of organisational or legal structure, the Stakeholder
 engagement forum should be open to all stakeholders and should borrow
 from structures such as RDA or open source foundation models.
 
-Any structure for the Stakeholder Forum use the key principles of ISO
+Any structure for the Stakeholders Forum use the key principles of ISO
 38500 (Governance of IT) as guiding principles, namely:
 
 -   **Responsibility** – Stakeholders know their responsibilities, both

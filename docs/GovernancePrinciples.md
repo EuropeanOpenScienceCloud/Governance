@@ -43,7 +43,7 @@ extended to Digital and Knowledge Commons[^3]:
 resources that are collectively created and owned or shared between or
 among a community and that tend to be non-exclusive, that is, be
 (generally freely) available to third parties. Thus, they are oriented
-to favor use and reuse, rather than to exchange as a commodity.
+to favour use and reuse, rather than to exchange as a commodity.
 Additionally, the community of people building them can intervene in the
 governing of their interaction processes and of their shared
 resources.”*[^4]
