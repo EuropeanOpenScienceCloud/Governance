@@ -12,7 +12,7 @@ Stakeholders
 
 Through the EOSCPilot Engagement activities, we have established a range
 of different stakeholder who would participate in and would both benefit
-from and provide benefits to the EOSC. Any effective governance
+from and provide benefits to the EOSC[^1]. Any effective governance
 structure would need to involve and take input from all these
 stakeholders. The key classes of stakeholder identified with the
 community is outlined in Table 3.
@@ -53,7 +53,7 @@ community is outlined in Table 3.
 <td>E-infrastructures, VREs and other pertinent H2020 projects<img src="StakeholdersAndResources/media/image7.png" style="width:0.3937in;height:0.3937in" /></td>
 <td><p>E-Infrastructures, VREs and other H2020 projects are key building blocks of the European Open Science Cloud</p>
 <p>The EC Digital Single Market refers to E-Infrastructures as ways of addressing needs of European researchers for digital services in terms of networking, computing and data management. They foster the emergence of Open Science and support the circulation of knowledge in Europe online and therefore constitute an essential building block for the European Research Area.</p>
-<p>A Virtual Research Environment (VRE) is a community of practice, an organisation and a bundle of services which supports researchers by providing access to shared documents tools and resources they need during a research project. Some examples of VREs are EVER-EST, a VRE for research on Earth-science, and VRE4EIC, supporting a multi-disciplinary approach to research on climate change and energy sustainability.</p></td>
+<p>Virtual Research Environments (VRE) help researchers from all disciplines to work collaboratively by managing the increasingly complex range of tasks involved in carrying out research on both small and large scales, and consists of the tools and technologies needed by researchers to do their research, interact with other researchers (who may come from different disciplines, institutions or even countries) and to make use of resources and technical infrastructures available. Some examples of VREs are EVER-EST<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>, a VRE for research on Earth-science; VRE4EIC<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a>, supporting a multi-disciplinary approach to research on climate change and energy sustainability; D4Science<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a>, a Data Infrastructure hosting over 100 VREs; and BlueBridge<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a>, a gateway to over 60 VREs.</p></td>
 </tr>
 <tr class="odd">
 <td><img src="StakeholdersAndResources/media/image8.png" style="width:0.3937in;height:0.3937in" />General Public / Citizen Scientists</td>
@@ -71,6 +71,15 @@ community is outlined in Table 3.
 </tr>
 </tbody>
 </table>
+<section class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>https://ever-est.eu/<a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn2"><p>https://www.vre4eic.eu/<a href="#fnref2" class="footnote-back">↩</a></p></li>
+<li id="fn3"><p>https://www.d4science.org/<a href="#fnref3" class="footnote-back">↩</a></p></li>
+<li id="fn4"><p>http://www.bluebridge-vres.eu/<a href="#fnref4" class="footnote-back">↩</a></p></li>
+</ol>
+</section>
 
 Table 3 - EOSC Stakeholders
 
@@ -93,21 +102,21 @@ indicative and not meant to be exhaustive or exclusive).
 <td>Provider</td>
 <td><strong>Provides services, data or other resources (e.g. scientific instruments, training) into EOSC</strong></td>
 <td><p><strong>e-Infrastructures</strong></p>
-<p><strong>Service Providers</strong></p>
-<p><strong>Enterprise</strong></p>
+<p><strong>Enterprises</strong></p>
 <p><strong>Academic Institutions and Research Libraries</strong></p>
 <p><strong>Research Infrastructures</strong></p>
-<p><strong>Outputs from VRE, and Other H2020 Projects</strong></p></td>
+<p><strong>VREs, and other H2020 Projects</strong></p>
+<p><strong>Other Service Providers</strong></p></td>
 </tr>
 <tr class="even">
 <td>Consumer</td>
 <td><strong>Will make use of services, data, or other resources from EOSC</strong></td>
 <td><p><strong>Learned Societies, Research Communities, Scientific and Professional Associations</strong></p>
 <p><strong>Research Infrastructures</strong></p>
-<p><strong>Research Producing Organisation</strong></p>
+<p><strong>Research Producing Organisations</strong></p>
 <p><strong>e-Infrastructures, VRE, and Other H2020 Projects</strong></p>
 <p><strong>Academic Institutions and Research Libraries</strong></p>
-<p><strong>Enterprise</strong></p>
+<p><strong>Enterprises</strong></p>
 <p><strong>General Public</strong></p></td>
 </tr>
 <tr class="odd">
@@ -125,11 +134,11 @@ In addition, there are some additional roles which are covered by the
 above stakeholders, but worth explicitly articulating – these are in
 Table 5.
 
-| Supplementary Role    | Description                                                                                                                                                                             | Relationship to Primary Roles              |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| Value-added providers | **Many stakeholders (including e-infrastructures, research infrastructures, VREs etc.) will consume services from some providers to provide value added services to other consumers. ** | Member of both Provider and Consumer roles |
-| Funders               | **Provides funding for research on a local, national or international level**                                                                                                           | Sub-role within Decision-makers            |
-| Policy-makers         | **Regulates policy at a local, national or regional level.**                                                                                                                            | Sub-role within Decision-makers            |
+| Supplementary Role    | Description                                                                                                                                                                                                         | Relationship to Primary Roles           |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Value-added providers | **Many stakeholders (including e-infrastructures, research infrastructures, VREs etc.) will consume services and resources from some providers to provide value added services and resources to other consumers. ** | Within both Provider and Consumer roles |
+| Funders               | **Provides funding for research on a local, national or international level**                                                                                                                                       | Sub-role within Decision-makers         |
+| Policy-makers         | **Regulates policy at a local, national or regional level.**                                                                                                                                                        | Sub-role within Decision-makers         |
 
 Table 5 - EOSC Supplementary Stakeholder Roles
 
@@ -154,95 +163,92 @@ as training, software development support and consultancy.
 ### Compliance and Compatibility
 
 It is envisaged that most of the EOSC resources will be fully
-*compliant* with the Principles of Engagement and compatible with the
-technical architecture. However, it is likely that, at least initially,
-there will be resources which are not fully *compliant* but are merely
-technically *compatible* with the EOSC but are still of value to the
-EOSC Consumers. Such resources might meet the needs of specific
-disciplines only, or may be currently in the process of becoming
-compliant.
+*compliant* with the Rules of Participation and, where applicable,
+compatible with the technical architecture. However, it is likely that,
+at least initially, there will be resources which are not fully
+*compliant* but are merely technically *compatible* with the EOSC but
+are still of value to the EOSC Consumers. Such resources might meet the
+needs of specific disciplines only, or may be currently in the process
+of becoming compliant.
 
 There may also be some resources which may not be fully technically
-*compatible* with EOSC resources nor fully *compliant* with the
-Principles of Engagement, but which nevertheless outside are of value to
-EOSC consumers. These would still be usable by EOSC consumers as
-recommended by the HLEG that *“It should be clear that non-EOSC approved
-players are free to explore any role in the Open Science ecosystem they
-wish, even if they do not adhere to the Principles of Engagement. They
-will just not be able to brand their services as EOSC
-approved/certified”.*
+*compatible* with EOSC resources nor fully *compliant* with the Rules of
+Participation, but which nevertheless outside are of value to EOSC
+consumers. These would still be usable by EOSC consumers as recommended
+by the HLEG that *“It should be clear that non-EOSC approved players are
+free to explore any role in the Open Science ecosystem they wish, even
+if they do not adhere to the Rules of Participation. They will just not
+be able to brand their services as EOSC approved/certified”.*
 
-This is illustrated below. The EOSCPilot has co-developed Rules of
-Participation with the community, as well as developed a technical
-architecture which provide more precise definitions of *compliant* and
-*compatible*.
+This is illustrated below in Figure 6. The EOSCPilot has co-developed
+Rules of Participation with the community, as well as developed a
+technical architecture which provide more precise definitions of
+*compliant* and *compatible*.
 
 <img src="StakeholdersAndResources/media/image11.png" alt="EOSC Resource Model - Rules of Participation" style="width:5.83333in;height:2.4425in" />
 
-Figure 8 - EOSC Resource Model: Rules of Participation
+Figure 6 - EOSC Resource Model: Rules of Participation
 
 ###  [section]
 
-### Core Resources
+### Economy and Financial Flows
 
-To function, there will need to be some **Core Resources** underpinning
-the EOSC analogous to services the internet such as domain naming
-services etc.. Such resources might include the EOSC service catalogue,
-access and identity management, etc. The need for **Core Resources** was
-also identified by the OSPP EOSC Working Group (see Section 3.3) whose
-definition is “set of services and processes that are needed to
-integrate and enable access to the various resources federated in the
-EOSC”. The **Core Resources** will need to be directly commissioned and
-financially compensated. The **Executive** should have the primary
-responsibility, in discussion with the **Strategic** and **Stakeholder**
-layers, to determine the requirements of these core resources, and
-decide how they will be delivered.
-
-### Compensation
+To function, there will need to be some **<span class="underline">Core
+Resources</span>** underpinning the EOSC analogous to services the
+internet such as domain naming services etc. . Such resources might
+include the EOSC service catalogue, access and identity management, etc.
+The need for **Core Resources** was also identified by the OSPP EOSC
+Working Group[^2] whose definition is “set of services and processes
+that are needed to integrate and enable access to the various resources
+federated in the EOSC”. The **Core Resources** will need to be directly
+commissioned and financially compensated. The **Executive** should have
+the primary responsibility, in discussion with the **Strategic** and
+**Stakeholder** layers, to determine the requirements of these core
+resources, and decide how they will be delivered.
 
 In order to meet the objective of “free at the point of use”, resource
-provision will need to be compensated by other means. The EOSCPilot is
-currently working on Business and Funding Models on how this
-compensation would work, but various models could include contribution
-of resources by member states and institutions, direct commission by the
+provision will need to receive **<span
+class="underline">Compensation</span>** and financial support by other
+means. Various models of this compensation could include contribution of
+resources by member states and institutions, direct commission by the
 **Executive** or compensation based on usage using mechanism in the
 Framework Programmes (such as Transnational or Virtual Access
-instruments[^1]) or new mechanisms such as “Cloud Coins” or other credit
+instruments[^3]) or new mechanisms such as “Cloud Coins” or other credit
 mechanisms. Facilities and services to enable such credit mechanisms
 will need to be provided by the EOSC **Core** **Resources**.
 
-### Service Gaps 
-
 To ensure that the EOSC remains relevant and to encourage innovation, it
-will be necessary to identify any gaps there may be in provision. Gaps
-may be identified by **Stakeholder** or **Executive** layer and notified
-to the Executive and Strategic layers. The **Executive** will need to
+will be necessary to identify any **<span class="underline">Resource
+Gaps</span>** which may exist may in provision. Gaps may be identified
+by the **Stakeholder** or **Executive** layers and notified to the
+**Executive** and **Strategic** layers. The **Executive** will need to
 develop mechanisms to fill any such gaps in provision, either by
-directly incentivising the development of new services or through
-advocacy to the Strategic layer and the Framework Programmes.
+directly incentivising the development of new resources and services or
+through advocacy to the Strategic layer and the Framework Programmes.
+This may also need to include incentives to transition existing
+resources into the EOSC, may providing mechanisms to help resource
+providers meet the technical requirements and Rules of Participation.
 
-### Open Market
+To ensure that EOSC remains an **<span class="underline">Open
+Market</span>** “open to all players, public and private, European and
+non-European” (as required by the first HLEG report[^4]), there may also
+be resources within EOSC which will not be directly compensated through
+EOSC, but through other means (including commercial resources paid
+directly by researchers or their institutions), but which nevertheless
+meet the requirements to be EOSC *compliant* or *compatible* and are of
+value to the community.
 
-To ensure that EOSC remains “open to all players, public and private,
-European and non-European” (Section 3.2), there may also be resources
-within EOSC which will not be directly compensated through EOSC, but
-through other means (including commercial resources paid directly by
-researchers or their institutions), but which nevertheless meet the
-requirements to be EOSC *compliant* or *compatible* and are of value to
-the community.
+In summary (as illustrated in Figure 6):
 
-In summary:
-
--   An EOSC Resource is *Compliant* if it meets the Principles of
-    Engagement and the technical requirements as defined by the EOSC
-    technical architecture
+-   An EOSC Resource is *Compliant* if it meets the Rules of
+    Participation for the EOSC
 
 -   An EOSC Resource is *Compatible* if it meets the technical
     requirements as defined by the EOSC technical architecture
 
 -   Some resources which are needed to integrate and enable access to
     the various resources federated in the EOSC will be *Core Resources*
-    (which by definition will need to be *Compliant*)
+    (which, by definition, will need to be *Compliant*)
 
 -   *Compliant* resources will be eligible to be part of EOSC; resources
     neither *Compliant* nor *Compatible* will be external to EOSC;
@@ -254,9 +260,9 @@ In summary:
     resources might be funded via other means, including commercial
     models
 
-<img src="StakeholdersAndResources/media/image12.png" style="width:5.90551in;height:1.91339in" />
+<img src="StakeholdersAndResources/media/image12.png" style="width:6.09583in;height:2.55223in" />
 
-Figure 9 - EOSC Resource Model: Economics
+Figure 7 - EOSC Resource Model: Economics
 
 Resource Delivery Models
 ------------------------
@@ -269,13 +275,13 @@ as potential final models.
 ### Lightweight Delivery Model
 
 Executive commissions and pays for (either directly or through some
-compensatory mechanism) Core and Supported services from international,
+compensatory mechanism) Core and Supported resources from international,
 national, institutional and commercial providers through existing
 mechanisms (e.g. Framework Programme instruments such as Virtual Access)
 
 <img src="StakeholdersAndResources/media/image13.png" style="width:5.51181in;height:2.75197in" />
 
-Figure 10 – Light Weight Executive Delivery Model
+Figure 8 – Light Weight Executive Delivery Model
 
 <table>
 <thead>
@@ -292,7 +298,7 @@ Figure 10 – Light Weight Executive Delivery Model
 <p>Fast to implement</p>
 <p>Present funding mechanisms can be used</p>
 <p>Flexible and agile in terms of providers</p></td>
-<td><p>Little impact of possibility to change services of present providers</p>
+<td><p>Little impact of possibility to change resources of present providers</p>
 <p>Slow change cycle</p>
 <p>Would need collaboration agreements</p></td>
 </tr>
@@ -309,7 +315,7 @@ or framework agreements) Core and Supported Resources.
 
 <img src="StakeholdersAndResources/media/image14.png" style="width:5.51181in;height:2.75197in" />
 
-Figure 11 - Medium Weight Executive Delivery Model
+Figure 9 - Medium Weight Executive Delivery Model
 
 <table>
 <thead>
@@ -339,9 +345,9 @@ ERIC) who would have responsibility for delivering Core and Supported
 Resources, either directly or through contracting or framework
 agreements with third parties.
 
-<img src="StakeholdersAndResources/media/image15.png" style="width:5.51181in;height:2.5748in" />
+<img src="StakeholdersAndResources/media/image15.png" style="width:5.69306in;height:2.64316in" />
 
-Figure 12 – Heavy Weight Executive Delivery Model
+Figure 10 – Heavy Weight Executive Delivery Model
 
 <table>
 <thead>
@@ -360,6 +366,12 @@ Figure 12 – Heavy Weight Executive Delivery Model
 </tbody>
 </table>
 
-[^1]: http://www.rich2020.eu/tas\_calls/about
+[^1]: D8.2: Stakeholder Identification & Engagement Strategy Plan
+
+[^2]: https://ec.europa.eu/research/openscience/pdf/ospp\_euro\_open\_science\_cloud\_report-.pdf
+
+[^3]: http://www.rich2020.eu/tas\_calls/about
+
+[^4]: https://ec.europa.eu/research/openscience/pdf/realising\_the\_european\_open\_science\_cloud\_2016.pdf
 
 

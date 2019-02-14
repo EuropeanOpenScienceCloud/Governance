@@ -79,10 +79,11 @@ governance on the following levels:
     interoperable e-Infrastructure portfolio envisioned for the
     e-Infrastructure Commons 2020.
 
-EGI and other e-infrastructures built upon the e-IRG e-Infrastructure
+EGI and other e-infrastructures expanded upon the e-IRG e-Infrastructure
 Commons recommendations, extending them to Open Science in general, in a
 set of white papers and proposals on an Open Science Commons[^7]. These
-map key principles of Commons management to Open Science[^8]:
+papers and proposals map key principles of Commons management to Open
+Science[^8] as illustrate in Table 2, below.
 
 <table>
 <thead>

@@ -36,11 +36,11 @@ framework outlines:
 
 -   A three-layer governance model consisting of Strategic, Executive
     and Stakeholder layers, and the interactions and decision flow
-    between these layers
+    between these layers;
 
 -   A resource model for the EOSC, and a skeleton outline of the
     Executive layer’s role in commissioning and supporting the EOSC
-    resources
+    resources;
 
 -   An outline of the role and structure of the Stakeholder layer and
     its interaction with the Executive.

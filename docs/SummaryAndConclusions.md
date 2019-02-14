@@ -1,7 +1,7 @@
 ---
 title: Summary and Conclusions
 menu: Summary and Conclusions
-weight: 9
+weight: 10
 ---
 
 Summary and Conclusions
@@ -32,8 +32,10 @@ This document will be placed in the public domain on github at the
 following locations, so that it can be owned and further developed by
 the EOSC community:
 
--   <https://github.com/EuropeanOpenScienceCloud/Governance/>
+-   **Reading version:**
+    <https://europeanopensciencecloud.github.io/Governance/>
 
--   <https://europeanopensciencecloud.github.io/Governance/>
+-   **Editable version:**
+    <https://github.com/EuropeanOpenScienceCloud/Governance/>
 
 
