@@ -37,7 +37,7 @@ Figure 12 - European Interoperability Layers
 
 The Governance Model is derived from the European Interoperability
 Framework with some slight re-interpretation of the four layers, as
-illustrated in Figure 15; within the context of EOSC**, Legal
+illustrated in Figure 12; within the context of EOSC**, Legal
 Interoperability** also includes Policy interoperability as well as
 Rules of Participation for EOSC; and **Organisational Interoperability**
 includes both Strategy and Funding.
@@ -59,7 +59,7 @@ layers) would be the responsibility of the Executive which would mirror
 the three pillars of the Stakeholder layer. Other strategic aspects of
 **Organisational** as well as oversight of all EIF layers would rest
 within the Strategic layer. The overview of these layer and pillars is
-shown in Figure 16, and outlined in Table 8.
+shown in Figure 13, and outlined in Table 6.
 
 <img src="GovernanceStructure/media/image2.png" style="width:8.88418in;height:6.33421in" />
 
@@ -81,7 +81,7 @@ Figure 13 - Overall Governance Structure
 <li><p>A Research Resource Demand Committee to have oversight in how EOSC resources are allocated – this will be informed by research community specific panels</p></li>
 <li><p>A Policy and Rules of Participation Oversight Committee to recommend research policy alignment – this will be informed by research community specific sub-committees</p></li>
 </ul>
-<p>There would also be a Ethics and Legal Advisory Board within the Legal pillar reporting directly to the Stakeholder Engagement Board and with close liaison to the Executive Board</p>
+<p>There would also be an Ethics and Legal Advisory Board within the Legal pillar reporting directly to the Stakeholder Engagement Board and with close liaison to the Executive Board</p>
 <p>It is anticipated that there will be working groups within the stakeholder forum both within these pillars, and cross-cutting working groups, to work on specific aspects of EOSC, in particular for determining future resources and developments. These would typically be time limited.</p></td>
 </tr>
 <tr class="even">
@@ -110,7 +110,7 @@ Strategic Governance
 
 Figure 14 - Strategic Governance
 
-As the Strategic Governance (Figure 17) should involve the
+As the Strategic Governance (Figure 14) should involve the
 representatives of national policy and national funding agencies, we
 believe that the European Commission and its existing structures should
 inform the exact nature of this structure. It is possible, for example,
@@ -135,7 +135,7 @@ centred approach and guaranteeing a: **“Voice of the Users”** with
 practical cases of how EOSC is making a difference to “how things were
 done previously” for them in their thematic area.
 
-The Stakeholder forum (Figure 18) would have three key pillars,
+The Stakeholder forum (Figure 15) would have three key pillars,
 approximately mapping to the EIF layers of **Technical**,
 **Organisational** and **Legal** respectively:
 
@@ -179,7 +179,7 @@ The European Interoperability Framework includes the concept of
 overlapping domains and this can be used to understand how different
 communities would need to interact. This can be applied to scientific
 and research domains, comparable to the Domain Interoperability
-Frameworks in the diagram (Figure 19). Each scientific domain has its
+Frameworks in the diagram (Figure 16). Each scientific domain has its
 own best practices and standards, and the role of EOSC is to determine
 and coordinate the overlap between these different domains. In this way,
 it provides “guidance only where guidance is due”. It also applies to
@@ -200,7 +200,7 @@ Community (for e-infrastructure security), OASIS (for Web Service and
 metadata standards) and W3C (for Web standards). The main differences
 between these concern their legal and financial structures, but in terms
 of governance, they can broadly be modelled to two or more of the levels
-outlined in Figure 20 below.
+outlined in Figure 17 below.
 
 <img src="GovernanceStructure/media/image6.png" alt="Stakeholder Forum Governance outline" style="width:5.23548in;height:3.22083in" />
 
@@ -224,7 +224,7 @@ This model includes:
 -   Emergent Topic Groups discuss new activities which may lead to
     working groups.
 
-Table 9 below illustrates how various community organisations map to
+Table 7 below illustrates how various community organisations map to
 this model.
 
 |                           | IETF                                                   | RDA                                                              | WISE               | OASIS                                        | W3C                                            |
@@ -289,10 +289,10 @@ Executive Governance
 
 Figure 18 - Executive Governance
 
-The Executive Governance (Figure 21) would have three key pillars,
+The Executive Governance (Figure 18) would have three key pillars,
 approximately mapping to the EIF layers of **Technical**,
 **Organisational** and **Legal** respectively, in a **Semantic** (i.e.
-Operational sense), as outlined in Table 10 below:
+Operational sense), as outlined in Table 8 below:
 
 <table>
 <thead>
@@ -376,7 +376,7 @@ Figure 19 – Light Weight Executive Delivery Model
 </tbody>
 </table>
 
-Table 1 – Light Weight Executive Delivery Model: Pros and Cons
+Table 9 – Light Weight Executive Delivery Model: Pros and Cons
 
 #### Commissioning Authority
 
@@ -407,7 +407,7 @@ Figure 20 - Commissioning Authority
 </tbody>
 </table>
 
-Table 2 – Commissioning Authority: Pros and Cons
+Table 10 – Commissioning Authority: Pros and Cons
 
 #### Delivery Authority
 
@@ -437,13 +437,16 @@ Figure 21 – Delivery Authority
 </tbody>
 </table>
 
-Table 3 - Delivery Authority: Pros and Cons
+Table 11 - Delivery Authority: Pros and Cons
 
 [^1]: EOSCPilot D3.5: Final Policy Recommendations - available from
     https://www.eoscpilot.eu/media/deliverables
 
 [^2]: Implementing Action 1.4 from EOSCPilot D3.6: Final Policy
     Recommendations - available from
-    https://www.eoscpilot.eu/media/deliverables
+    <https://www.eoscpilot.eu/media/deliverables>. The Ethics and Legal
+    Advisory Board might be established within the Executive during the
+    interim implementation phase of EOSC and then transition into
+    Stakeholder Forum.
 
 

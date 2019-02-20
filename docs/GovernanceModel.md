@@ -22,7 +22,7 @@ community skills of *engaging citizens*, *measuring results*, and
 *getting things done* in order to help people and organisations make
 decisions about what actions to take in a community and to measure their
 impact and effectiveness.[^1] The interaction between these “skills” is
-shown in Figure 11.
+shown in Figure 8.
 
 <img src="GovernanceModel/media/image1.png" style="width:6.22467in;height:2.55208in" />
 
@@ -62,7 +62,7 @@ of the stakeholders through the strategic objectives set by the
 Institutional layer. Within the EC Staff Working Document[^8] and the
 Second HLEG Report[^9] this is referred to as the **Executive** layer.
 
-These layers are illustrated in Figure 12.
+These layers are illustrated in Figure 9.
 
 <img src="GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:4.97917in;height:2.14583in" />
 
@@ -85,7 +85,7 @@ there is be a feedback loop between the **Stakeholder** and
 standards and practices, and a report back from the **Executive** to the
 **Strategic** layer on how effective the EOSC is meeting the strategy,
 and how effective the strategic goals are at capturing the real needs of
-the communities. This is outlined in Figure 13.
+the communities. This is outlined in Figure 10.
 
 <img src="GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:3.6875in;height:3.53125in" />
 
@@ -94,7 +94,7 @@ Figure 10 - Community Governance Model for EOSC
 Decision Flow
 -------------
 
-The overall decision flow between these layers is outlined in Figure 14
+The overall decision flow between these layers is outlined in Figure 11
 (the structures within the layers is elaborated on in the next section
 on Governance Structure).
 
