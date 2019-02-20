@@ -34,7 +34,7 @@ structure for it (see Figure 2).
 Figure 2 - EOSCPilot WP2 Governance Outline
 
 <img src="Introduction/media/image2.png" style="width:2.77153in;height:2.53403in" />As
-part of that objective, this document outlines an framework for a
+part of that objective, this document outlines a framework for a
 stakeholder driven governance and decision-making structure which could
 be used after the initial implementation phase of the EOSC.
 
@@ -42,19 +42,63 @@ The framework outlines:
 
 -   A three-layer governance model consisting of Strategic, Executive
     and Stakeholder layers, and the interactions and decision flow
-    between these layers
+    between these layers;
 
 -   A resource model for the EOSC, and a skeleton outline of the
     Executive layer’s role in commissioning and supporting the EOSC
-    resources
+    resources;
 
 -   An outline of the role and structure of the Stakeholder layer and
-    its interaction with the Executive
+    its interaction with the Executive.
+
+The ideas within this document have been developed in consultation with
+key stakeholders via a variety of fora including, as well as other
+workshops and presentations:
+
+-   The EOSCPilot Governance Development Forum[^1]
+
+-   Stakeholder consultations[^2]
+
+-   EOSCPilot Governance Piloting Process[^3]
+
+-   EOSCPilot Stakeholder Forum events[^4]
+
+This document is structured as shown in Table 1, below.
+
+| Section                    | Summary                                                                                                                                                                                                 |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Strategic Requirements     | Outlines the political and policy context for EOSC and the EOSC Governance framework and structure.                                                                                                     |
+| Governance Principles      | Outlines key principles identified from the community and existing work to which any EOSC Governance framework and structures must conform.                                                             |
+| Stakeholders and Resources | Outlines the under-pinning models of EOSC stakeholders and EOSC resources and services.                                                                                                                 |
+| Governance Model           | Outlines the overall model of the Governance Framework.                                                                                                                                                 |
+| Governance Structure       | Elaborates on the structures with the Governance Model.                                                                                                                                                 |
+| Legal Structure            |                                                                                                                                                                                                         |
+| Governance Transition      | Outlines a transition from the interim Governance structure established by the European Commission for the initial implementation of the EOSC and the longer-term framework described in this document. |
+
+Table 1 - Document Structure
 
 This document is intended to become a living document owned by the
-community. For that purpose the contents of the most up to date version
+community. For that purpose, the contents of the most up to date version
 can be found on github at:
 
-<https://github.com/EuropeanOpenScienceCloud/Governance>
+-   **Reading version:**
+    <https://europeanopensciencecloud.github.io/Governance/>
+
+-   **Editable version:**
+    <https://github.com/EuropeanOpenScienceCloud/Governance/>
+
+[^1]: See “D2.3: 1st Report on Governance Development Forum involvement
+    and activity” and “D2.9 Report on Governance Development Board” at
+    <https://www.eoscpilot.eu/media/deliverables>
+
+[^2]: See “D2.1: Draft Stakeholder Map” and “D2.7: Final Stakeholder
+    Map” at <https://www.eoscpilot.eu/media/deliverables>
+
+[^3]: See “D2.8 Report on governance piloting process” at
+    <https://www.eoscpilot.eu/media/deliverables>
+
+[^4]: See
+    <https://www.eoscpilot.eu/eosc-stakeholder-forum-shaping-future-eosc>
+    and <https://www.eoscpilot.eu/events/second-eosc-stakeholders-forum>
 
 

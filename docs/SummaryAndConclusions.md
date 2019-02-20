@@ -1,7 +1,7 @@
 ---
 title: Summary and Conclusions
 menu: Summary and Conclusions
-weight: 9
+weight: 01
 ---
 
 Summary and Conclusions
@@ -10,7 +10,7 @@ Summary and Conclusions
 This document outlines a stakeholder driven governance framework for the
 long-term management and oversight of EOSC. It forms a natural evolution
 of the implementation phase governance structure established by the
-European Commission by
+European Commission by:
 
 1.  Extending the Executive to include standing groups performing
     important roles in terms of Legal (including policy), Organisational
@@ -32,8 +32,10 @@ This document will be placed in the public domain on github at the
 following locations, so that it can be owned and further developed by
 the EOSC community:
 
--   <https://github.com/EuropeanOpenScienceCloud/Governance/>
+-   **Reading version:**
+    <https://europeanopensciencecloud.github.io/Governance/>
 
--   <https://europeanopensciencecloud.github.io/Governance/>
+-   **Editable version:**
+    <https://github.com/EuropeanOpenScienceCloud/Governance/>
 
 

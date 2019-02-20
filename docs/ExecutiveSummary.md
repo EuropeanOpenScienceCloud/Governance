@@ -24,16 +24,23 @@ Science Cloud"**[^1]. This document also outlines the key differences to
 be addressed in moving from the implementation phase governance to this
 framework, and the reasons behind these.
 
+The following report has been written at the time of the EOSC Portal
+definition, so it cannot fully reflect on how the Governance framework
+works viz-à-viz also the EOSC portal, the Service Catalogue and or the
+Marketplace and competence centres that are developed within EOSC-Hub.
+However these should be accommodatable within the three pillars of the
+proposed Executive structure.
+
 <img src="ExecutiveSummary/media/image1.png" style="width:2.77153in;height:2.53403in" />The
 framework outlines:
 
 -   A three-layer governance model consisting of Strategic, Executive
     and Stakeholder layers, and the interactions and decision flow
-    between these layers
+    between these layers;
 
 -   A resource model for the EOSC, and a skeleton outline of the
     Executive layer’s role in commissioning and supporting the EOSC
-    resources
+    resources;
 
 -   An outline of the role and structure of the Stakeholder layer and
     its interaction with the Executive.

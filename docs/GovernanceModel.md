@@ -22,41 +22,57 @@ community skills of *engaging citizens*, *measuring results*, and
 *getting things done* in order to help people and organisations make
 decisions about what actions to take in a community and to measure their
 impact and effectiveness.[^1] The interaction between these “skills” is
-shown in Figure 9.
+shown in Figure 11.
 
-<img src="GovernanceModel/media/image1.png" style="width:5.52852in;height:2.26667in" />
+<img src="GovernanceModel/media/image1.png" style="width:6.22467in;height:2.55208in" />
 
-Figure 13 - Effective Community Governance[^2]
+Figure 8 - Effective Community Governance[^2]
 
-These map very closely to the layers defined in the EOSC Declaration, of
-Institutional, Executive, and Advisory). In this model, the Advisory
-Layer from the declaration would involve the *engaging citizens* skills
-to determine the scientific and technical needs of the users. The term
-“Advisory” is meant, in this context, to concern engaging with all
-stakeholders. It is important that stakeholders are, and feel that they
-are, peers in the decision-making process. They should perform a role
-that is both advisory *and steering* - it should provide strong guidance
-and direction (not just advisory) to the Strategic and Executive layers.
+The EOSC Declaration[^3] defined three governance layers:
 
-The declaration’s Institutional layer would define the strategic
+-   **Institutional** – including EU Member States and the European
+    Commission
+
+-   **Executive/Operational** – including a governance board at the
+    executive level and relevant working committees
+
+-   **Advisory** – including a stakeholder forum
+
+These map very closely to the skills in the community governance model
+above. In this model, the **Advisory** layer from the declaration would
+involve the *engaging citizens* skills to determine the scientific and
+technical needs of the users. The term “Advisory” is meant, in this
+context, to concern engaging with all stakeholders. It is important that
+stakeholders are, and feel that they are, peers in the decision-making
+process. They should perform a role that is both advisory and guiding -
+it should provide strong guidance and direction (not just advisory) to
+the Strategic and Executive layers. Within the EC Staff Working
+Document[^4] and the Second HLEG Report[^5] this is referred to as the
+**Stakeholder** layer.
+
+The declaration’s **Institutional** layer would define the strategic
 objectives and measure the impact and effectiveness of EOSC against
 these objectives and so would principally map to the *Measuring Results*
-skill.
+skill. Within the EC Staff Working Document[^6] and the Second HLEG
+Report[^7] this is referred to as the **Strategic** layer.
 
-Finally, the Executive\\Operational layer would map to the *Getting
+Finally, the **Executive\\Operational** layer would map to the *Getting
 Things Done* skill by ensuring that the EOSC delivers to meet the needs
 of the stakeholders through the strategic objectives set by the
-Institutional layer. These layers are illustrated in Figure 10.
+Institutional layer. Within the EC Staff Working Document[^8] and the
+Second HLEG Report[^9] this is referred to as the **Executive** layer.
 
-<img src="GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:5.83333in;height:2.48413in" />
+These layers are illustrated in Figure 12.
 
-Figure 14 - EOSC Governance Layers
+<img src="GovernanceModel/media/image2.png" alt="EOSC Governance Layers" style="width:4.97917in;height:2.14583in" />
+
+Figure 9 - EOSC Governance Layers
 
 The intersections of these skills and layers are important in delivering
 an effective governance structure for EOSC. The **Stakeholder** layer
-determines within its communities best practice, standards, principles
-of engagement, in effect addressing the recommendations of “*Guidance
-only where guidance is due”* and “*Define Principles of Engagement for
+determines within its communities’ best practice, standards, rules of
+participation, in effect addressing the recommendations of “*Guidance
+only where guidance is due”* and “*Define Rules of Participation for
 service provision in the EOSC”* from the HLEG group report, as well as
 the scientific and technical requirements of the EOSC. This forms a
 discussion and interaction with the **Strategic** layer, articulates the
@@ -69,36 +85,37 @@ there is be a feedback loop between the **Stakeholder** and
 standards and practices, and a report back from the **Executive** to the
 **Strategic** layer on how effective the EOSC is meeting the strategy,
 and how effective the strategic goals are at capturing the real needs of
-the communities. This is outlined in Figure 11.
+the communities. This is outlined in Figure 13.
 
-<img src="GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:5.83333in;height:5.33647in" />
+<img src="GovernanceModel/media/image3.png" alt="EOSC Community Governance Model" style="width:3.6875in;height:3.53125in" />
 
-Figure 15 - Community Governance Model for EOSC
+Figure 10 - Community Governance Model for EOSC
 
 Decision Flow
 -------------
 
-The **Stakeholder** layer would allow the stakeholders to determine the
-requirements, policies and principles of engagement, and make proposals
-on how these could be met to the **Strategic** Layer. The **Strategic**
-layer would review, agree and prioritise these proposals and
-requirements to form the strategic vision and objectives of the EOSC.
+The overall decision flow between these layers is outlined in Figure 14
+(the structures within the layers is elaborated on in the next section
+on Governance Structure).
 
-The **Executive** layer would be responsible for ensuring that the EOSC
-meets this vision and these objectives by: commissioning Core resource
-as required; commissioning new Supported resources as required; ensuring
-that Supported services are properly compensated; and ensuring that the
-resources within EOSC are both compliant and meet the strategic
-objectives.
+-   The **Stakeholder** layer would allow the stakeholders to determine
+    the requirements, policies and Rules of Participation, and make
+    proposals on how these could be met to the **Strategic** Layer. The
+    **Strategic** layer would review, agree and prioritise these
+    proposals and requirements to form the strategic vision and
+    objectives of the EOSC.
 
-The **Stakeholder** layer would also communicate to the **Executive** at
-how well the EOSC is meeting their requirements at an operational level,
-and the **Executive** would report this against the strategic objective
-to the Strategic layer.
+-   The **Executive** layer would be responsible for ensuring that the
+    EOSC meets this vision and these objectives by: commissioning Core
+    resource as required; commissioning new Supported resources as
+    required; ensuring that Supported resources are properly
+    compensated; and ensuring that the resources within EOSC are both
+    compliant and meet the strategic objectives.
 
-<img src="GovernanceModel/media/image4.png" style="width:6.21111in;height:4.17775in" />
-
-Figure 16 - Governance Decision Flow
+-   The **Stakeholder** layer would also communicate to the
+    **Executive** at how well the EOSC is meeting their requirements at
+    an operational level, and the **Executive** would report this
+    against the strategic objective to the Strategic layer.
 
 For example, a scientific discipline (or disciplines) within the
 **Stakeholder** layer might define data interoperability and re-use
@@ -115,8 +132,26 @@ identify key areas where training and support are required, the
 these training and support requirements, and the **Stakeholder** would
 report how effective they are.
 
+<img src="GovernanceModel/media/image4.png" style="width:8.82609in;height:5.93665in" />
+
+Figure 11 - Governance Decision Flow
+
 [^1]: http://www.rtmteam.net/page.php?pageID=25&section=overview\_of\_ecg
 
 [^2]: http://www.rtmteam.net/page.php?pageID=25&section=overview\_of\_ecg
+
+[^3]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
+
+[^4]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+
+[^5]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+
+[^6]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+
+[^7]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+
+[^8]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+
+[^9]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
 
 
