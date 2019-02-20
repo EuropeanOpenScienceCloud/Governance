@@ -7,9 +7,6 @@ weight: 9
 Governance Transition 
 ======================
 
-EC Staff Working Document
--------------------------
-
 The European Commission’s staff working document **"Implementation
 Roadmap for the European Open Science Cloud"**[^1] outlines an interim
 governance structure for the initial implementation phase of the EOSC:
