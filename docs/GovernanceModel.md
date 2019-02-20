@@ -136,22 +136,22 @@ report how effective they are.
 
 Figure 11 - Governance Decision Flow
 
-[^1]: http://www.rtmteam.net/page.php?pageID=25&section=overview\_of\_ecg
+[^1]: <http://www.rtmteam.net/page.php?pageID=25&section=overview_of_ecg>
 
-[^2]: http://www.rtmteam.net/page.php?pageID=25&section=overview\_of\_ecg
+[^2]: <http://www.rtmteam.net/page.php?pageID=25&section=overview_of_ecg>
 
 [^3]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
 
 [^4]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 
-[^5]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+[^5]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 
 [^6]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 
-[^7]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+[^7]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 
 [^8]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 
-[^9]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+[^9]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 
 
