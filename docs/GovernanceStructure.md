@@ -123,6 +123,8 @@ member countries** rather than **EU member countries**.
 Stakeholder Governance
 ----------------------
 
+### Governance Structure
+
 <img src="GovernanceStructure/media/image4.png" style="width:4.64028in;height:6.6875in" />
 
 Figure 15 - Stakeholder Governance
@@ -170,6 +172,8 @@ and legal initiatives within the organisation. This would sit in the
 Stakeholder forum, reporting to the Stakeholder Engagement Board to
 ensure its independence but would have a close advisory and liaison line
 into the Executive Board.
+
+### Supporting Structures
 
 The European Interoperability Framework includes the concept of
 overlapping domains and this can be used to understand how different
@@ -271,8 +275,15 @@ of ISO 38500 (Governance of IT) as guiding principles, namely:
     human behaviour and acknowledges the needs of all the people in the
     process.
 
-    1.  Executive Governance
-        --------------------
+Underpinning this, there may need to be a legal structure such as a
+charity, and a secretariat or other supporting agency which might be
+shared with the Executive, however, the independence of the Stakeholder
+Engagement Forum is paramount.
+
+Executive Governance
+--------------------
+
+### Governance Structure
 
 <img src="GovernanceStructure/media/image7.png" style="width:4.51389in;height:5.48056in" />
 
@@ -321,6 +332,112 @@ Operational sense), as outlined in Table 10 below:
 </section>
 
 Table 8 - Executive Governance Pillars
+
+### Supporting Structures
+
+There are broadly three potential models for the EOSC to commission and
+provide financial support to Core and Supported EOSC Resources. Each
+model can be regarded as both an intermediate step towards more
+complicated models as well a potential end state. Each model may be
+supported by a legal structure (such as an ERIC) and a secretariat or
+other supporting agency which might be shared with the Stakeholder
+Engagement Forum.
+
+#### Lightweight Delivery Model
+
+Executive commissions and pays for (either directly or through some
+compensatory mechanism) Core and Supported resources from international,
+national, institutional and commercial providers through existing
+mechanisms (e.g. Framework Programme instruments such as Virtual Access)
+
+<img src="GovernanceStructure/media/image8.png" style="width:5.51181in;height:2.75197in" />
+
+Figure 19 – Light Weight Executive Delivery Model
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Pros</strong></th>
+<th><strong>Cons</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Minimal Impact on present structures</p>
+<p>Maintains existing entry points</p>
+<p>Maintained Subsidiarity principle (that access should be through local or national institutions)</p>
+<p>Fast to implement</p>
+<p>Present funding mechanisms can be used</p>
+<p>Flexible and agile in terms of providers</p></td>
+<td><p>Little impact of possibility to change resources of present providers</p>
+<p>Slow change cycle</p>
+<p>Would need collaboration agreements</p></td>
+</tr>
+</tbody>
+</table>
+
+Table 1 – Light Weight Executive Delivery Model: Pros and Cons
+
+#### Commissioning Authority
+
+The establishment of a new entity (possibly a legal structure such as an
+ERIC) who would have responsibility for commissioning (e.g. contracting
+or framework agreements) Core and Supported Resources.
+
+<img src="GovernanceStructure/media/image9.png" style="width:5.51181in;height:2.75197in" />
+
+Figure 20 - Commissioning Authority
+
+<table>
+<thead>
+<tr class="header">
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Clean interface between funder and provider</p>
+<p>From providers’ perspective, a new business opportunity</p>
+<p>An ERIC structure would allow additional mechanisms for Member State contributions/</p></td>
+<td><p>Require major agreement between Member States and European Commission</p>
+<p>Slow to implement</p>
+<p>Breaks Subsidiarity Principle by providing centralised provision of national or local resources</p></td>
+</tr>
+</tbody>
+</table>
+
+Table 2 – Commissioning Authority: Pros and Cons
+
+#### Delivery Authority
+
+The establishment of a new entity (possibly a legal structure such as an
+ERIC) who would have responsibility for delivering Core and Supported
+Resources, either directly or through contracting or framework
+agreements with third parties.
+
+<img src="GovernanceStructure/media/image10.png" style="width:5.69306in;height:2.64316in" />
+
+Figure 21 – Delivery Authority
+
+<table>
+<thead>
+<tr class="header">
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Organisational integration between public European e-infrastructures</td>
+<td><p>Artificially tight integration of very different business models</p>
+<p>Very long time to implement</p>
+<p>Needs strong coordination of national resources</p></td>
+</tr>
+</tbody>
+</table>
+
+Table 3 - Delivery Authority: Pros and Cons
 
 [^1]: EOSCPilot D3.5: Final Policy Recommendations - available from
     https://www.eoscpilot.eu/media/deliverables

@@ -1,7 +1,7 @@
 ---
 title: Glossary
 menu: Glossary
-weight: 12
+weight: 11
 ---
 
 Glossary
