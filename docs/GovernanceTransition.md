@@ -125,7 +125,7 @@ A more detailed comparison
 </tbody>
 </table>
 
-Table 11 - Governance Crosswalk
+Table 12 - Governance Crosswalk
 
 Despite the differences, there is a clear evolutionary path between the
 model in the staff working model and the longer term model described
