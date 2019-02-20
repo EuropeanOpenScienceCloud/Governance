@@ -209,28 +209,30 @@ governance structure for the initial implementation phase of the EOSC
 framework described in this document. This transition is covered later
 in the document.
 
-<img src="StrategicRequirements/media/image1.png" alt="SWD Governance" style="width:6.19792in;height:4.44766in" />
+<img src="StrategicRequirements/media/image1.png" alt="SWD Governance" style="width:4.85833in;height:3.48637in" />
 
 Figure 4 - Staff Working Document - Governance Structure
 
 Second HLEG Report
 ------------------
 
-The provision of resources to support the EOSC will take place in a very
-heterogeneous landscape of e-infrastructures and service providers, with
-dispersed users at best aggregated around disciplinary poles and
-national infrastructures. Addressing this challenge requires the
-definition of a smallest common denominator, referred to here as the
-Minimum Viable Ecosystem (MVE) of the EOSC.
-
 The report of the Second High Level Expert Group on the Open Science
-Cloud (Prompting an EOSC in Practice)[^8], supports the SWD governance
-model for the initial implementation of the EOSC providing a variant
-illustration as shown below in Figure 5.
+Cloud (Prompting an EOSC in Practice)[^8] concluded that the provision
+of resources to support the EOSC will take place in a very heterogeneous
+landscape of e-infrastructures and service providers, with dispersed
+users at best aggregated around disciplinary poles and national
+infrastructures. Addressing this challenge requires the definition of a
+smallest common denominator, i.e. the Minimum Viable Ecosystem of the
+EOSC.
 
-<img src="StrategicRequirements/media/image2.png" style="width:6.69375in;height:3in" />
+<img src="StrategicRequirements/media/image2.png" style="width:5.44167in;height:2.43884in" />
 
 Figure 5 - 2nd HLEG Report - Governance Overview
+
+As part of that Minimum Viable Ecosystem, the report supported a
+Governance structure for the initial implementation of the EOSC
+(illustrated in Figure 5) very much along the lines advocated in the EC
+Staff Working Document.
 
 [^1]: https://ec.europa.eu/digital-single-market/en/news/communication-european-cloud-initiative-building-competitive-data-and-knowledge-economy-europe
 
@@ -246,7 +248,7 @@ Figure 5 - 2nd HLEG Report - Governance Overview
 
 [^5]: https://ec.europa.eu/research/openscience/pdf/ospp\_euro\_open\_science\_cloud\_report-.pdf
 
-[^6]: https://ec.europa.eu/research/openscience/pdf/eosc\_declaration.pdf
+[^6]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
 
 [^7]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 

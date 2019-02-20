@@ -1,7 +1,7 @@
 ---
-title: Governance Structure
-menu: Governance Structure
-weight: 9
+title: Governance Transition
+menu: Governance Transition
+weight: 10
 ---
 
 Governance Transition 
@@ -147,7 +147,7 @@ meets its users’ needs, and, in particular, taking over the running of
 working groups, whilst the Executive adopts a more operational and
 delivery role
 
-<img src="GovernanceTransition/media/image3.png" style="width:9.79456in;height:4.92708in" />
+<img src="GovernanceTransition/media/image3.png" style="width:9.41555in;height:4.81181in" />
 
 Figure 24 - Governance Transition
 

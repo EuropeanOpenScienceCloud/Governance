@@ -51,6 +51,18 @@ The framework outlines:
 -   An outline of the role and structure of the Stakeholder layer and
     its interaction with the Executive.
 
+The ideas within this document have been developed in consultation with
+key stakeholders via a variety of fora including, as well as other
+workshops and presentations:
+
+-   The EOSCPilot Governance Development Forum[^1]
+
+-   Stakeholder consultations[^2]
+
+-   EOSCPilot Governance Piloting Process[^3]
+
+-   EOSCPilot Stakeholder Forum events[^4]
+
 This document is structured as shown in Table 1, below.
 
 | Section                    | Summary                                                                                                                                                                                                 |
@@ -60,6 +72,7 @@ This document is structured as shown in Table 1, below.
 | Stakeholders and Resources | Outlines the under-pinning models of EOSC stakeholders and EOSC resources and services.                                                                                                                 |
 | Governance Model           | Outlines the overall model of the Governance Framework.                                                                                                                                                 |
 | Governance Structure       | Elaborates on the structures with the Governance Model.                                                                                                                                                 |
+| Legal Structure            |                                                                                                                                                                                                         |
 | Governance Transition      | Outlines a transition from the interim Governance structure established by the European Commission for the initial implementation of the EOSC and the longer-term framework described in this document. |
 
 Table 1 - Document Structure
@@ -73,5 +86,19 @@ can be found on github at:
 
 -   **Editable version:**
     <https://github.com/EuropeanOpenScienceCloud/Governance/>
+
+[^1]: See “D2.3: 1st Report on Governance Development Forum involvement
+    and activity” and “D2.9 Report on Governance Development Board” at
+    <https://www.eoscpilot.eu/media/deliverables>
+
+[^2]: See “D2.1: Draft Stakeholder Map” and “D2.7: Final Stakeholder
+    Map” at <https://www.eoscpilot.eu/media/deliverables>
+
+[^3]: See “D2.8 Report on governance piloting process” at
+    <https://www.eoscpilot.eu/media/deliverables>
+
+[^4]: See
+    <https://www.eoscpilot.eu/eosc-stakeholder-forum-shaping-future-eosc>
+    and <https://www.eoscpilot.eu/events/second-eosc-stakeholders-forum>
 
 

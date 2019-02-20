@@ -94,31 +94,32 @@ Science[^8] as illustrate in Table 2, below.
 </thead>
 <tbody>
 <tr class="odd">
-<td>Shared resources</td>
+<td><strong>Shared resources<br />
+</strong></td>
 <td>Research data, scientific instruments, digital services (including those for data-intensive science), software, written knowledge (e.g., scientific publications, educational and training resources), expertise from people.</td>
 </tr>
 <tr class="even">
-<td><p>Access rights</p>
+<td><p><strong>Access rights</strong></p>
 <p>Collective rights, access with no central authority</p></td>
 <td>Access modes are well defined and non-discriminatory for all members of the European Research Area.</td>
 </tr>
 <tr class="odd">
-<td><p>Policies</p>
+<td><p><strong>Policies</strong></p>
 <p>Community-based rules and procedures in place with built-in incentives for responsible use, right of access to all according to established community policies</p></td>
 <td>Harmonized access policies, based on one market, clear points of access and support, integrated body of policies for access and use.</td>
 </tr>
 <tr class="even">
-<td><p>Management</p>
+<td><p><strong>Management</strong></p>
 <p>Community management of communal services and resources</p></td>
 <td>Formally managed services using transparent methods to maintain service access and quality. Management spans organisations to support collaboratively-provided services and is intended to support provision of long-term, high-quality services.</td>
 </tr>
 <tr class="odd">
-<td><p>Governance</p>
+<td><p><strong>Governance</strong></p>
 <p>The community of individuals building the commons can intervene in the governing of their interaction processes and of their shared resources.</p></td>
 <td>Governance model with multiple stakeholders, including research communities as producers of knowledge and data, scientific infrastructures, resource providers, national and European scientific infrastructures and e-infrastructures, and providers of the platforms that enable national and Europe-wide sharing (e.g. open source software repositories, training marketplace, service marketplace, identity providers).</td>
 </tr>
 <tr class="even">
-<td><p>Stewardship</p>
+<td><p><strong>Stewardship</strong></p>
 <p>Long-term, persistent care for a given resource for the benefit of oneself and others (including the resource itself) and collective trusteeship. Caring for the commons means more than just regulating. Caretakers are needed, that is, a system nurturing societal cooperation, sharing of goods and thoughtfulness of generations to come. It entails establishing norms that reduce free riding and hold communities together (community building).</p></td>
 <td><p>Long-term support of funding agencies to allow for infrastructures to take a long-term view and build for a common European future.</p>
 <p>A framework of policies and support allows for the growth and development of e-Infrastructure capacity and capabilities.</p>
