@@ -31,7 +31,7 @@ The European Interoperability Framework
     interconnection services, data integration services, data
     presentation and exchange, and secure communication protocols.
 
-<img src="GovernanceStructure/media/image1.png" alt="European Interoperability Layers" style="width:4.87946in;height:2.61661in" />
+<img src="GovernanceStructure/media/image1.png" alt="European Interoperability Layers" style="width:4.35in;height:2.33269in" />
 
 Figure 12 - European Interoperability Layers
 
@@ -325,9 +325,9 @@ Operational sense), as outlined in Table 8 below:
 <hr />
 <ol>
 <li id="fn1"><p>EOSCPilot D5.1: Initial EOSC Service Architecture – available from https://www.eoscpilot.eu/media/deliverables<a href="#fnref1" class="footnote-back">↩</a></p></li>
-<li id="fn2"><p>EOSCPilot D5.3: EOSC Federated Service Management Framework available from https://www.eoscpilot.eu/media/deliverables<a href="#fnref2" class="footnote-back">↩</a></p></li>
-<li id="fn3"><p>EOSCPilot D5.1: Initial EOSC Service Architecture – available from https://www.eoscpilot.eu/media/deliverables<a href="#fnref3" class="footnote-back">↩</a></p></li>
-<li id="fn4"><p>EOSCPilot D3.5: Final Policy Recommendations - available from https://www.eoscpilot.eu/media/deliverables<a href="#fnref4" class="footnote-back">↩</a></p></li>
+<li id="fn2"><p>See “D5.3: EOSC Federated Service Management Framework” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref2" class="footnote-back">↩</a></p></li>
+<li id="fn3"><p>See “D5.1: Initial EOSC Service Architecture” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref3" class="footnote-back">↩</a></p></li>
+<li id="fn4"><p>See “D3.5: Final Policy Recommendations” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref4" class="footnote-back">↩</a></p></li>
 </ol>
 </section>
 
@@ -349,10 +349,12 @@ Executive commissions and pays for (either directly or through some
 compensatory mechanism) Core and Supported resources from international,
 national, institutional and commercial providers through existing
 mechanisms (e.g. Framework Programme instruments such as Virtual Access)
+as shown in Figure 19. The pros and cons of this approach are outline in
+Table 9.
 
-<img src="GovernanceStructure/media/image8.png" style="width:5.51181in;height:2.75197in" />
+<img src="GovernanceStructure/media/image8.png" style="width:5.15in;height:2.57132in" />
 
-Figure 19 – Light Weight Executive Delivery Model
+Figure 19 - Light Weight Executive Delivery Model
 
 <table>
 <thead>
@@ -376,15 +378,16 @@ Figure 19 – Light Weight Executive Delivery Model
 </tbody>
 </table>
 
-Table 9 – Light Weight Executive Delivery Model: Pros and Cons
+Table 9 - Light Weight Executive Delivery Model: Pros and Cons
 
 #### Commissioning Authority
 
 The establishment of a new entity (possibly a legal structure such as an
 ERIC) who would have responsibility for commissioning (e.g. contracting
-or framework agreements) Core and Supported Resources.
+or framework agreements) Core and Supported Resources, as shown in
+Figure 20. The pros and cons of this approach are outline in Table 10.
 
-<img src="GovernanceStructure/media/image9.png" style="width:5.51181in;height:2.75197in" />
+<img src="GovernanceStructure/media/image9.png" style="width:5.42442in;height:2.70833in" />
 
 Figure 20 - Commissioning Authority
 
@@ -407,18 +410,19 @@ Figure 20 - Commissioning Authority
 </tbody>
 </table>
 
-Table 10 – Commissioning Authority: Pros and Cons
+Table 10 - Commissioning Authority: Pros and Cons
 
 #### Delivery Authority
 
 The establishment of a new entity (possibly a legal structure such as an
 ERIC) who would have responsibility for delivering Core and Supported
 Resources, either directly or through contracting or framework
-agreements with third parties.
+agreements with third parties, as show in Figure 21. The pros and cons
+of this approach are outline in Table 11.
 
-<img src="GovernanceStructure/media/image10.png" style="width:5.69306in;height:2.64316in" />
+<img src="GovernanceStructure/media/image10.png" style="width:5.34881in;height:2.48333in" />
 
-Figure 21 – Delivery Authority
+Figure 21 - Delivery Authority
 
 <table>
 <thead>
@@ -437,16 +441,13 @@ Figure 21 – Delivery Authority
 </tbody>
 </table>
 
-Table 11 - Delivery Authority: Pros and Cons
+[^1]: See “D3.5: Final Policy Recommendations” at
+    <https://www.eoscpilot.eu/media/deliverables>
 
-[^1]: EOSCPilot D3.5: Final Policy Recommendations - available from
-    https://www.eoscpilot.eu/media/deliverables
-
-[^2]: Implementing Action 1.4 from EOSCPilot D3.6: Final Policy
-    Recommendations - available from
-    <https://www.eoscpilot.eu/media/deliverables>. The Ethics and Legal
-    Advisory Board might be established within the Executive during the
-    interim implementation phase of EOSC and then transition into
-    Stakeholder Forum.
+[^2]: In order to mplementing Action 1.4 “D3.6: Final Policy
+    Recommendations” at <https://www.eoscpilot.eu/media/deliverables>.
+    The Ethics and Legal Advisory Board might be established within the
+    Executive during the interim implementation phase of EOSC and then
+    transition into Stakeholder Forum.
 
 

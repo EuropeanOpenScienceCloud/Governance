@@ -163,26 +163,26 @@ Ostrom’s book “Governing the Commons”[^10]:
     resolution, and governance activities are organized in multiple
     layers of nested enterprises.
 
-[^1]: http://www.som.cranfield.ac.uk/som/p15175/Knowledge-Interchange/Guides/Corporate-Responsibility-and-Sustainability/Stakeholder-Engagement-A-Road-Map-to-Meaningful-Engagement
+[^1]: <http://www.som.cranfield.ac.uk/som/p15175/Knowledge-Interchange/Guides/Corporate-Responsibility-and-Sustainability/Stakeholder-Engagement-A-Road-Map-to-Meaningful-Engagement>
 
-[^2]: https://www.icann.org/news/multimedia/1563
+[^2]: <https://www.icann.org/news/multimedia/1563>
 
-[^3]: http://www.onlinecreation.info/digital-commons/
+[^3]: <http://www.onlinecreation.info/digital-commons/>
 
 [^4]: Fuster Morell, M. (2010, p. 5). Dissertation: Governance of online
     creation communities: Provision of infrastructure for the building
     of digital commons.
 
-[^5]: http://www.bollier.org/blog/eight-points-reference-commoning
+[^5]: <http://www.bollier.org/blog/eight-points-reference-commoning>
 
-[^6]: http://e-irg.eu/commons
+[^6]: <http://e-irg.eu/commons>
 
-[^7]: https://www.opensciencecommons.org
+[^7]: <https://www.opensciencecommons.org>
 
-[^8]: http://go.egi.eu/oscwp
+[^8]: <http://go.egi.eu/oscwp>
 
-[^9]: http://go.egi.eu/oscwp
+[^9]: <http://go.egi.eu/oscwp>
 
-[^10]: http://www.cooperationcommons.com/Documents/EntryView?id=30
+[^10]: <http://www.cooperationcommons.com/Documents/EntryView?id=30>
 
 

@@ -234,9 +234,9 @@ Governance structure for the initial implementation of the EOSC
 (illustrated in Figure 5) very much along the lines advocated in the EC
 Staff Working Document.
 
-[^1]: https://ec.europa.eu/digital-single-market/en/news/communication-european-cloud-initiative-building-competitive-data-and-knowledge-economy-europe
+[^1]: <https://ec.europa.eu/digital-single-market/en/news/communication-european-cloud-initiative-building-competitive-data-and-knowledge-economy-europe>
 
-[^2]: https://ec.europa.eu/research/openscience/pdf/realising\_the\_european\_open\_science\_cloud\_2016.pdf
+[^2]: <https://ec.europa.eu/research/openscience/pdf/realising_the_european_open_science_cloud_2016.pdf>
 
 [^3]: This concept has been called “Rules of Engagement” and “Principles
     of Engagement” in previous EOSC communications and reports. The
@@ -244,14 +244,14 @@ Staff Working Document.
     term used within this document. References to earlier documents have
     been updated to use this term for consistency.
 
-[^4]: https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform
+[^4]: <https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform>
 
-[^5]: https://ec.europa.eu/research/openscience/pdf/ospp\_euro\_open\_science\_cloud\_report-.pdf
+[^5]: <https://ec.europa.eu/research/openscience/pdf/ospp_euro_open_science_cloud_report-.pdf>
 
 [^6]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
 
 [^7]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
 
-[^8]: https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1
+[^8]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 
 

@@ -78,10 +78,10 @@ community is outlined in Table 3.
 <section class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>https://ever-est.eu/<a href="#fnref1" class="footnote-back">↩</a></p></li>
-<li id="fn2"><p>https://www.vre4eic.eu/<a href="#fnref2" class="footnote-back">↩</a></p></li>
-<li id="fn3"><p>https://www.d4science.org/<a href="#fnref3" class="footnote-back">↩</a></p></li>
-<li id="fn4"><p>http://www.bluebridge-vres.eu/<a href="#fnref4" class="footnote-back">↩</a></p></li>
+<li id="fn1"><p><a href="https://ever-est.eu/">https://ever-est.eu/</a><a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn2"><p><a href="https://www.vre4eic.eu/">https://www.vre4eic.eu/</a><a href="#fnref2" class="footnote-back">↩</a></p></li>
+<li id="fn3"><p><a href="https://www.d4science.org/">https://www.d4science.org/</a><a href="#fnref3" class="footnote-back">↩</a></p></li>
+<li id="fn4"><p><a href="http://www.bluebridge-vres.eu/">http://www.bluebridge-vres.eu/</a><a href="#fnref4" class="footnote-back">↩</a></p></li>
 </ol>
 </section>
 
@@ -275,14 +275,14 @@ Figure 7 - EOSC Resource Model: Economics
 [^3]: See “D5.1: Initial EOSC Service Architecture” at
     <https://www.eoscpilot.eu/media/deliverables>
 
-[^4]: https://ec.europa.eu/research/openscience/pdf/ospp\_euro\_open\_science\_cloud\_report-.pdf
+[^4]: <https://ec.europa.eu/research/openscience/pdf/ospp_euro_open_science_cloud_report-.pdf>
 
 [^5]: See also “D2.4: Recommendations and prerequisites to realise EOSC
     as a sustainable ecosystem“ at
     <https://www.eoscpilot.eu/media/deliverables>
 
-[^6]: http://www.rich2020.eu/tas\_calls/about
+[^6]: <http://www.rich2020.eu/tas_calls/about>
 
-[^7]: https://ec.europa.eu/research/openscience/pdf/realising\_the\_european\_open\_science\_cloud\_2016.pdf
+[^7]: <https://ec.europa.eu/research/openscience/pdf/realising_the_european_open_science_cloud_2016.pdf>
 
 
