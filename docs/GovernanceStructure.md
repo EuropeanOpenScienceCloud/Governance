@@ -349,6 +349,8 @@ Executive commissions and pays for (either directly or through some
 compensatory mechanism) Core and Supported resources from international,
 national, institutional and commercial providers through existing
 mechanisms (e.g. Framework Programme instruments such as Virtual Access)
+as shown in Figure 19. The pros and cons of this approach are outline in
+Table 9.
 
 <img src="GovernanceStructure/media/image8.png" style="width:5.15in;height:2.57132in" />
 
@@ -382,7 +384,8 @@ Table 9 - Light Weight Executive Delivery Model: Pros and Cons
 
 The establishment of a new entity (possibly a legal structure such as an
 ERIC) who would have responsibility for commissioning (e.g. contracting
-or framework agreements) Core and Supported Resources.
+or framework agreements) Core and Supported Resources, as shown in
+Figure 20. The pros and cons of this approach are outline in Table 10.
 
 <img src="GovernanceStructure/media/image9.png" style="width:5.42442in;height:2.70833in" />
 
@@ -414,9 +417,10 @@ Table 10 - Commissioning Authority: Pros and Cons
 The establishment of a new entity (possibly a legal structure such as an
 ERIC) who would have responsibility for delivering Core and Supported
 Resources, either directly or through contracting or framework
-agreements with third parties.
+agreements with third parties, as show in Figure 21. The pros and cons
+of this approach are outline in Table 11.
 
-<img src="GovernanceStructure/media/image10.png" style="width:5.40833in;height:2.51097in" />
+<img src="GovernanceStructure/media/image10.png" style="width:5.34881in;height:2.48333in" />
 
 Figure 21 - Delivery Authority
 
@@ -436,8 +440,6 @@ Figure 21 - Delivery Authority
 </tr>
 </tbody>
 </table>
-
-Table 11 - Delivery Authority: Pros and Cons
 
 [^1]: See “D3.5: Final Policy Recommendations” at
     <https://www.eoscpilot.eu/media/deliverables>
