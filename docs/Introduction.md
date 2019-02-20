@@ -72,7 +72,6 @@ This document is structured as shown in Table 1, below.
 | Stakeholders and Resources | Outlines the under-pinning models of EOSC stakeholders and EOSC resources and services.                                                                                                                 |
 | Governance Model           | Outlines the overall model of the Governance Framework.                                                                                                                                                 |
 | Governance Structure       | Elaborates on the structures with the Governance Model.                                                                                                                                                 |
-| Legal Structure            |                                                                                                                                                                                                         |
 | Governance Transition      | Outlines a transition from the interim Governance structure established by the European Commission for the initial implementation of the EOSC and the longer-term framework described in this document. |
 
 Table 1 - Document Structure
