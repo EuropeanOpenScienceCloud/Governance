@@ -173,7 +173,7 @@ at least initially, there will be resources which are not fully
 *compliant* but are merely technically *compatible* with the EOSC but
 are still of value to the EOSC Consumers. Such resources might meet the
 needs of specific disciplines only, or may be currently in the process
-of becoming compliant, or transitioning into the EOSC
+of becoming compliant, or transitioning into the EOSC.
 
 There may also be some resources which may not be fully technically
 *compatible* with EOSC resources nor fully *compliant* with the Rules of
