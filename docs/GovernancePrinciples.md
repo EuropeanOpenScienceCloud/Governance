@@ -14,13 +14,13 @@ input into the development of decisions that affect them”*[^1]
 ***Stakeholder Engagement: A Road Map to Meaningful Engagement –
 Cranfield School of Management***
 
-A key element of the strategic is the need for the EOSC to be
-stakeholder driven. It should be “a multi-level and multi-stakeholder
-governance that ensures a representation for the main stakeholder
-categories and disciplines, integrating both the national and European
-levels of authority.” (OSPP Recommendations – Section 3.3). It is
-therefore important for all stakeholders and all stakeholder roles to be
-able to participate in the governance.
+A key element of the strategy is the need for the EOSC to be stakeholder
+driven. It should be “a multi-level and multi-stakeholder governance
+that ensures a representation for the main stakeholder categories and
+disciplines, integrating both the national and European levels of
+authority.” (OSPP Recommendations – Section 3.3). It is therefore
+important for all stakeholders and all stakeholder roles to be able to
+participate in the governance.
 
 Moreover, to be “open to all players, public and private, European and
 non-European” (HLEG Recommendations – Section 3.2), and following the

@@ -42,15 +42,15 @@ Interoperability** also includes Policy interoperability as well as
 Rules of Participation for EOSC; and **Organisational Interoperability**
 includes both Strategy and Funding.
 
-Currently, the Rules of Participation (RoP) are broad and can cover
+Currently, the Rules of Participation (RoP)[^1] are broad and can cover
 different aspects. It currently focuses on rules and guidelines for
 resource organisations to promote and offer resources through the EOSC
-Catalogue Marketplace. In the evolution of the EOSC Portal, the
-Governance model will need to address how Resource Organisations might
-need to define their Rules of Participation when they may appear in many
-different services catalogues (e.g. at a national or institutional
-level) with different RoP whilst remaining “compliant” within the EOSC
-Service Catalogue/Marketplace.
+Portal. In the evolution of the EOSC Portal, the Governance model will
+need to address how Resource Organisations might need to define their
+Rules of Participation when they may appear in many different services
+catalogues (e.g. at a national or institutional level) with different
+RoP whilst remaining “compliant” within the EOSC Portal's presentation
+of services and other offerings.
 
 **Legal**, the resource allocation aspects of **Organisational**, and
 **Technical** would form three pillars within the Stakeholder layer,
@@ -89,8 +89,8 @@ Figure 13 - Overall Governance Structure
 <td><p>The Executive will include representation of those providing EOSC resources – both core resources essential for the federation of EOSC, and specific and specialized resources. It will include three similar pillars to the Stakeholder layer - essentially being providing (in EIF terms) the Semantic (i.e. Operational) implementation of the three pillars in the Stakeholder layer:</p>
 <ul>
 <li><p>A <strong>Technical</strong> <strong>Operational</strong> (<strong>Semantic</strong>) pillar ensuring that EOSC resources meet the needs and standards of the communities consisting of the EOSC System Steering Committee, Service Portfolio Management Committee and EOSC System Executive Committee as defined in the EOSC Architecture and Service Management Framework.</p></li>
-<li><p>An <strong>Organisational</strong> <strong>Operational</strong> (<strong>Semantic</strong>) including a Resource Allocation Committee to ensure that communities have appropriate access to scare resources based on research excellence and impact, and a Financial and Commercial Steering Committee to oversee financial flows and procurement of resources</p></li>
-<li><p>A <strong>Legal Operational</strong> (<strong>Semantic</strong>), including a Policy Alignment Steering Committee to ensure necessary alignment of resource provider policies both between providers and with national and international policies</p></li>
+<li><p>An <strong>Organisational</strong> <strong>Operational</strong> (<strong>Semantic</strong>) pillar including a Resource Allocation Committee to ensure that communities have appropriate access to scare resources based on research excellence and impact, and a Financial and Commercial Steering Committee to oversee financial flows and procurement of resources</p></li>
+<li><p>A <strong>Legal Operational</strong> (<strong>Semantic</strong>) pillar including a Policy Alignment Steering Committee to ensure necessary alignment of resource provider policies both between providers and with national and international policies</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -130,10 +130,10 @@ Stakeholder Governance
 Figure 15 - Stakeholder Governance
 
 A recommendation from the EOSC 2^nd^ HLEG would be to have the
-Stakeholders Forum should move its focus in 2019 to responding to a user
-centred approach and guaranteeing a: **“Voice of the Users”** with
+Stakeholders Forum move its focus in 2019 to a more user centred
+approach in order to guarantee a **“Voice of the Users”** including
 practical cases of how EOSC is making a difference to “how things were
-done previously” for them in their thematic area.
+done previously” for them in their thematic areas.
 
 The Stakeholder forum (Figure 15) would have three key pillars,
 approximately mapping to the EIF layers of **Technical**,
@@ -161,11 +161,11 @@ approximately mapping to the EIF layers of **Technical**,
     recommend research policy alignment – this will be informed by
     research community specific sub-committees. This would subsume the
     stakeholder policy related aspects of the Policy Standing Committee
-    proposed in the EOSCPilot policy recommendations[^1] after the
+    proposed in the EOSCPilot policy recommendations[^2] after the
     initial implementation period of the EOSC.
 
 In addition, the **Legal** pillar would also include an Ethics and Legal
-Advisory Board[^2] whose mandate would be to identify ethical and legal
+Advisory Board[^3] whose mandate would be to identify ethical and legal
 and policy issues to review the actions of EOSC from an ethical and
 legal perspective, as well as acting as the source of further ethical
 and legal initiatives within the organisation. This would sit in the
@@ -271,7 +271,7 @@ of ISO 38500 (Governance of IT) as guiding principles, namely:
     themselves must also comply with legal requirements and agreed
     internal rules.
 
--   **Human behaviour** –policies, practices and decisions respects
+-   **Human behaviour** – policies, practices and decisions respects
     human behaviour and acknowledges the needs of all the people in the
     process.
 
@@ -317,14 +317,14 @@ Operational sense), as outlined in Table 8 below:
 <tr class="even">
 <td><strong>Legal + Semantic Pillar</strong></td>
 <td><p><strong>Policy Alignment Steering Committee</strong></p>
-<p>To ensure necessary alignment of service and resource provider policies both between providers and with national and international policies. This would subsume the operational policy related aspects of the Policy Standing Committee proposed in the EOSCPilot policy recommendations<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> after the initial implementation period of the EOSC.</p></td>
+<p>To ensure necessary alignment of service and resource provider policies both between providers and with national and international policies. This would subsume the operational policy related aspects of the Policy Standing Committee proposed in the EOSCpilot policy recommendations<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> after the initial implementation period of the EOSC.</p></td>
 </tr>
 </tbody>
 </table>
 <section class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>EOSCPilot D5.1: Initial EOSC Service Architecture – available from https://www.eoscpilot.eu/media/deliverables<a href="#fnref1" class="footnote-back">↩</a></p></li>
+<li id="fn1"><p>See “D5.1: Initial EOSC Service Architecture” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref1" class="footnote-back">↩</a></p></li>
 <li id="fn2"><p>See “D5.3: EOSC Federated Service Management Framework” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref2" class="footnote-back">↩</a></p></li>
 <li id="fn3"><p>See “D5.1: Initial EOSC Service Architecture” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref3" class="footnote-back">↩</a></p></li>
 <li id="fn4"><p>See “D3.5: Final Policy Recommendations” at <a href="https://www.eoscpilot.eu/media/deliverables">https://www.eoscpilot.eu/media/deliverables</a><a href="#fnref4" class="footnote-back">↩</a></p></li>
@@ -441,10 +441,13 @@ Figure 21 - Delivery Authority
 </tbody>
 </table>
 
-[^1]: See “D3.5: Final Policy Recommendations” at
+[^1]: See “D2.5: Recommendations for a minimal set of Rules of
+    Participation” at <https://www.eoscpilot.eu/media/deliverables>
+
+[^2]: See “D3.5: Final Policy Recommendations” at
     <https://www.eoscpilot.eu/media/deliverables>
 
-[^2]: In order to mplementing Action 1.4 “D3.6: Final Policy
+[^3]: In order to implement Action 1.4 “D3.6: Final Policy
     Recommendations” at <https://www.eoscpilot.eu/media/deliverables>.
     The Ethics and Legal Advisory Board might be established within the
     Executive during the interim implementation phase of EOSC and then
