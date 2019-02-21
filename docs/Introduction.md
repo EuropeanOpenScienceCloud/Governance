@@ -31,7 +31,7 @@ structure for it (see Figure 2).
 
 <img src="Introduction/media/image1.png" style="width:6.29921in;height:2.90157in" />
 
-Figure 2 - EOSCPilot WP2 Governance Outline
+Figure 2 - EOSCpilot WP2 Governance Outline
 
 <img src="Introduction/media/image2.png" style="width:2.77153in;height:2.53403in" />As
 part of that objective, this document outlines a framework for a
@@ -55,13 +55,13 @@ The ideas within this document have been developed in consultation with
 key stakeholders via a variety of fora including, as well as other
 workshops and presentations:
 
--   The EOSCPilot Governance Development Forum[^1]
+-   The EOSCpilot Governance Development Forum[^1]
 
 -   Stakeholder consultations[^2]
 
--   EOSCPilot Governance Piloting Process[^3]
+-   EOSCpilot Governance Piloting Process[^3]
 
--   EOSCPilot Stakeholder Forum events[^4]
+-   EOSCpilot Stakeholder Forum events[^4]
 
 This document is structured as shown in Table 1, below.
 

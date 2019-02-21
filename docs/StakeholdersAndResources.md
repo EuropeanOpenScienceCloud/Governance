@@ -10,7 +10,7 @@ Stakeholders and Resources
 Stakeholders
 ------------
 
-Through the EOSCPilot Engagement activities, we have established a range
+Through the EOSCpilot Engagement activities, we have established a range
 of different stakeholder who would participate in and would both benefit
 from and provide benefits to the EOSC[^1]. Any effective governance
 structure would need to involve and take input from all these
@@ -184,7 +184,7 @@ free to explore any role in the Open Science ecosystem they wish, even
 if they do not adhere to the Rules of Participation. They will just not
 be able to brand their services as EOSC approved/certified”.*
 
-This is illustrated below in Figure 6. The EOSCPilot has co-developed an
+This is illustrated below in Figure 6. The EOSCpilot has co-developed an
 initial set of Rules of Participation[^2] with the community, as well as
 developed a technical architecture[^3] which provide more precise
 definitions of *compliant* and *compatible*.
