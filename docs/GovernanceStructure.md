@@ -44,13 +44,11 @@ includes both Strategy and Funding.
 
 Currently, the Rules of Participation (RoP) are broad and can cover
 different aspects. It currently focuses on rules and guidelines for
-resource organisations to promote and offer resources through the EOSC
-Catalogue Marketplace. In the evolution of the EOSC Portal, the
+resource organisations to promote and offer resources through the EOSC Portal. In the evolution of the EOSC Portal, the
 Governance model will need to address how Resource Organisations might
 need to define their Rules of Participation when they may appear in many
 different services catalogues (e.g. at a national or institutional
-level) with different RoP whilst remaining “compliant” within the EOSC
-Service Catalogue/Marketplace.
+level) with different RoP whilst remaining “compliant” within the EOSC Portal's presentation of services and other offerings.
 
 **Legal**, the resource allocation aspects of **Organisational**, and
 **Technical** would form three pillars within the Stakeholder layer,
@@ -89,8 +87,8 @@ Figure 13 - Overall Governance Structure
 <td><p>The Executive will include representation of those providing EOSC resources – both core resources essential for the federation of EOSC, and specific and specialized resources. It will include three similar pillars to the Stakeholder layer - essentially being providing (in EIF terms) the Semantic (i.e. Operational) implementation of the three pillars in the Stakeholder layer:</p>
 <ul>
 <li><p>A <strong>Technical</strong> <strong>Operational</strong> (<strong>Semantic</strong>) pillar ensuring that EOSC resources meet the needs and standards of the communities consisting of the EOSC System Steering Committee, Service Portfolio Management Committee and EOSC System Executive Committee as defined in the EOSC Architecture and Service Management Framework.</p></li>
-<li><p>An <strong>Organisational</strong> <strong>Operational</strong> (<strong>Semantic</strong>) including a Resource Allocation Committee to ensure that communities have appropriate access to scare resources based on research excellence and impact, and a Financial and Commercial Steering Committee to oversee financial flows and procurement of resources</p></li>
-<li><p>A <strong>Legal Operational</strong> (<strong>Semantic</strong>), including a Policy Alignment Steering Committee to ensure necessary alignment of resource provider policies both between providers and with national and international policies</p></li>
+<li><p>An <strong>Organisational</strong> <strong>Operational</strong> (<strong>Semantic</strong>) pillar including a Resource Allocation Committee to ensure that communities have appropriate access to scare resources based on research excellence and impact, and a Financial and Commercial Steering Committee to oversee financial flows and procurement of resources</p></li>
+<li><p>A <strong>Legal Operational</strong> (<strong>Semantic</strong>) pillar including a Policy Alignment Steering Committee to ensure necessary alignment of resource provider policies both between providers and with national and international policies</p></li>
 </ul></td>
 </tr>
 </tbody>
@@ -129,8 +127,8 @@ Stakeholder Governance
 
 Figure 15 - Stakeholder Governance
 
-A recommendation from the EOSC 2^nd^ HLEG would be to have the
-Stakeholders Forum should move its focus in 2019 to responding to a user
+A recommendation from the EOSC 2^nd^ HLEG is to have the
+Stakeholders Forum move its focus in 2019 responding to a user
 centred approach and guaranteeing a: **“Voice of the Users”** with
 practical cases of how EOSC is making a difference to “how things were
 done previously” for them in their thematic area.
@@ -271,7 +269,7 @@ of ISO 38500 (Governance of IT) as guiding principles, namely:
     themselves must also comply with legal requirements and agreed
     internal rules.
 
--   **Human behaviour** –policies, practices and decisions respects
+-   **Human behaviour** – policies, practices and decisions respects
     human behaviour and acknowledges the needs of all the people in the
     process.
 
@@ -317,7 +315,7 @@ Operational sense), as outlined in Table 8 below:
 <tr class="even">
 <td><strong>Legal + Semantic Pillar</strong></td>
 <td><p><strong>Policy Alignment Steering Committee</strong></p>
-<p>To ensure necessary alignment of service and resource provider policies both between providers and with national and international policies. This would subsume the operational policy related aspects of the Policy Standing Committee proposed in the EOSCPilot policy recommendations<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> after the initial implementation period of the EOSC.</p></td>
+<p>To ensure necessary alignment of service and resource provider policies both between providers and with national and international policies. This would subsume the operational policy related aspects of the Policy Standing Committee proposed in the EOSCpilot policy recommendations<a href="#fn4" class="footnote-ref" id="fnref4"><sup>4</sup></a> after the initial implementation period of the EOSC.</p></td>
 </tr>
 </tbody>
 </table>

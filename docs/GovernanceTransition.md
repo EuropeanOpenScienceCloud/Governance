@@ -32,14 +32,14 @@ structure and the framework described in this document:
     in the Stakeholder layer.
 
 -   The Staff Working Document sees the working groups as part of the
-    **Executive** layer, whereas the EOSCPilot model see these as part
+    **Executive** layer, whereas the EOSCpilot model see these as part
     of the **Stakeholder** layer with a much greater independence for
     the Stakeholder layer to self-organise and self-populate.
 
 -   The Staff Working Document has very little to say about the
     **Stakeholder** layer apart from the role in the Strategic in
     determining its membership, apparently minimizing the importance of
-    the stakeholder forum. The EOSCPilot framework emphasizes their
+    the stakeholder forum. The EOSCpilot framework emphasizes their
     importance puts a lot of emphasis on the relationships and
     information flow, the communication between the layers.
 

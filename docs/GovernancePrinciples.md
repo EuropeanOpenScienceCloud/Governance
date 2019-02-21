@@ -14,7 +14,7 @@ input into the development of decisions that affect them”*[^1]
 ***Stakeholder Engagement: A Road Map to Meaningful Engagement –
 Cranfield School of Management***
 
-A key element of the strategic is the need for the EOSC to be
+A key element of the strategy is the need for the EOSC to be
 stakeholder driven. It should be “a multi-level and multi-stakeholder
 governance that ensures a representation for the main stakeholder
 categories and disciplines, integrating both the national and European
