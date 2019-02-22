@@ -10,7 +10,8 @@ Governance Structure
 Overall Structure
 -----------------
 
-The European Interoperability Framework
+The European Interoperability Framework[^1] defines four types of
+interoperability:
 
 -   **Legal Interoperability** is about ensuring that organisations
     operating under different legal frameworks, policies and strategies
@@ -35,14 +36,14 @@ The European Interoperability Framework
 
 Figure 12 - European Interoperability Layers
 
-The Governance Model is derived from the European Interoperability
+The Governance structure is derived from the European Interoperability
 Framework with some slight re-interpretation of the four layers, as
 illustrated in Figure 12; within the context of EOSC**, Legal
 Interoperability** also includes Policy interoperability as well as
 Rules of Participation for EOSC; and **Organisational Interoperability**
 includes both Strategy and Funding.
 
-Currently, the Rules of Participation (RoP)[^1] are broad and can cover
+Currently, the Rules of Participation (RoP)[^2] are broad and can cover
 different aspects. It currently focuses on rules and guidelines for
 resource organisations to promote and offer resources through the EOSC
 Portal. In the evolution of the EOSC Portal, the Governance model will
@@ -51,6 +52,10 @@ Rules of Participation when they may appear in many different services
 catalogues (e.g. at a national or institutional level) with different
 RoP whilst remaining “compliant” within the EOSC Portal's presentation
 of services and other offerings.
+
+<img src="GovernanceStructure/media/image2.png" style="width:8.88418in;height:6.33421in" />
+
+Figure 13 - Overall Governance Structure
 
 **Legal**, the resource allocation aspects of **Organisational**, and
 **Technical** would form three pillars within the Stakeholder layer,
@@ -61,9 +66,10 @@ the three pillars of the Stakeholder layer. Other strategic aspects of
 within the Strategic layer. The overview of these layer and pillars is
 shown in Figure 13, and outlined in Table 6.
 
-<img src="GovernanceStructure/media/image2.png" style="width:8.88418in;height:6.33421in" />
-
-Figure 13 - Overall Governance Structure
+Each of these three layers would have a coordinating Board with strong
+reporting lines between these Boards. However, it is anticipated that
+there would be other liaison between the layers – in particular, between
+the Stakeholder and Executive layers as outlined above.
 
 <table>
 <thead>
@@ -97,11 +103,6 @@ Figure 13 - Overall Governance Structure
 </table>
 
 Table 6 - Governance Structure Layers
-
-Each of these three layers would have a coordinating Board with strong
-reporting lines between these Boards. However, it is anticipated that
-there would be other liaison between the layers – in particular, between
-the Stakeholder and Executive layers as outlined above.
 
 Strategic Governance
 --------------------
@@ -161,11 +162,11 @@ approximately mapping to the EIF layers of **Technical**,
     recommend research policy alignment – this will be informed by
     research community specific sub-committees. This would subsume the
     stakeholder policy related aspects of the Policy Standing Committee
-    proposed in the EOSCPilot policy recommendations[^2] after the
+    proposed in the EOSCPilot policy recommendations[^3] after the
     initial implementation period of the EOSC.
 
 In addition, the **Legal** pillar would also include an Ethics and Legal
-Advisory Board[^3] whose mandate would be to identify ethical and legal
+Advisory Board[^4] whose mandate would be to identify ethical and legal
 and policy issues to review the actions of EOSC from an ethical and
 legal perspective, as well as acting as the source of further ethical
 and legal initiatives within the organisation. This would sit in the
@@ -285,7 +286,7 @@ Executive Governance
 
 ### Governance Structure
 
-<img src="GovernanceStructure/media/image7.png" style="width:4.51389in;height:5.48056in" />
+<img src="GovernanceStructure/media/image7.png" style="width:4.96875in;height:6.03283in" />
 
 Figure 18 - Executive Governance
 
@@ -441,13 +442,15 @@ Figure 21 - Delivery Authority
 </tbody>
 </table>
 
-[^1]: See “D2.5: Recommendations for a minimal set of Rules of
+[^1]: <https://ec.europa.eu/isa2/eif_en>
+
+[^2]: See “D2.5: Recommendations for a minimal set of Rules of
     Participation” at <https://www.eoscpilot.eu/media/deliverables>
 
-[^2]: See “D3.5: Final Policy Recommendations” at
+[^3]: See “D3.5: Final Policy Recommendations” at
     <https://www.eoscpilot.eu/media/deliverables>
 
-[^3]: In order to implement Action 1.4 “D3.6: Final Policy
+[^4]: In order to implement Action 1.4 “D3.6: Final Policy
     Recommendations” at <https://www.eoscpilot.eu/media/deliverables>.
     The Ethics and Legal Advisory Board might be established within the
     Executive during the interim implementation phase of EOSC and then
