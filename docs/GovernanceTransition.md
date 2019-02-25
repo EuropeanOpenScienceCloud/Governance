@@ -21,7 +21,7 @@ overview of this interim governance structure:
 
 <img src="GovernanceTransition/media/image2.png" style="width:5.46191in;height:2.44792in" />
 
-Figure 23 - 2nd HLEG Report Governance Overview
+Figure 23 - Second HLEG Report Governance Overview
 
 There are three main differences between these this interim governance
 structure and the framework described in this document:
@@ -37,13 +37,13 @@ structure and the framework described in this document:
     the Stakeholder layer to self-organise and self-populate.
 
 -   The Staff Working Document has very little to say about the
-    **Stakeholder** layer apart from the role in the Strategic in
+    **Stakeholder** layer apart from its role in the Strategic in
     determining its membership, apparently minimizing the importance of
     the stakeholder forum. The EOSCpilot framework emphasizes their
     importance puts a lot of emphasis on the relationships and
     information flow, the communication between the layers.
 
-A more detailed comparison
+Table 12 presents a more detailed comparison.
 
 <table>
 <thead>
@@ -81,7 +81,7 @@ A more detailed comparison
 </tr>
 <tr class="odd">
 <td><strong>EXECUTIVE</strong></td>
-<td>Members: max. 10 chosen by the EOSC Board from ESFRI infras, eInfras, scientific organisations, university associations etc.</td>
+<td>Members: max. 10 chosen by the EOSC Board from ESFRI infrastructures, e-infrastructures, scientific organisations, university associations etc.</td>
 <td>Members: not defined</td>
 </tr>
 <tr class="even">
@@ -125,7 +125,7 @@ A more detailed comparison
 Table 12 - Governance Crosswalk
 
 Despite the differences, there is a clear evolutionary path between the
-model in the staff working model and the longer term model described
+model in the staff working model and the longer-term model described
 later in this document, with the Stakeholder Forum evolving to become
 more independent and able to take a stronger role in determining the
 direction of EOSC to ensure that it that it meets its users’ needs, and,
@@ -133,9 +133,9 @@ for the working groups as they move from an implementation focus to move
 across under the remit of the Stakeholder Forum to ensure independence
 between the advisory and delivery roles. This is illustrated in Figure
 24. In the meantime, the Executive evolves to take a much more
-operational role taking advice and input from the Stakeholder layer. Its
-supporting Coordination Structure would evolve into one of the delivery
-models outlined in the framework as illustrated in Figure 25.
+operational role, taking advice and input from the Stakeholder layer.
+Its supporting Coordination Structure would evolve into one of the
+delivery models outlined in the framework as illustrated in Figure 25.
 
 <img src="GovernanceTransition/media/image3.png" style="width:9.80416in;height:5.01042in" />
 
@@ -145,7 +145,7 @@ Figure 24 - Governance Transition
 
 Figure 25 - Delivery Transition
 
-[^1]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+[^1]: <http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf>
 
 [^2]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 

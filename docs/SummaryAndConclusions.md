@@ -28,7 +28,7 @@ European Commission by:
     initial implementation issues to focus on the longer term future
     development and evolution of EOSC
 
-This document will be placed in the public domain on github at the
+This document has been placed in the public domain on github at the
 following locations, so that it can be owned and further developed by
 the EOSC community:
 

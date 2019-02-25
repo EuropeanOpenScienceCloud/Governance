@@ -27,11 +27,11 @@ non-European” (HLEG Recommendations – Section 3.2), and following the
 analogies between the development of EOSC and the development of the
 Internet suggested in the HLEG report, it is also a requirement that:
 
-*“No one person, organisation, or company governs the digital space* ...
-Solutions to issues in each layer include policies, best practices,
+*“No one person, organisation, or company governs the digital space*
+*... Solutions to issues in each layer include policies, best practices,
 standards, specifications, and tools developed by the collaboration of
 stakeholders and experts from actors in business, governments, academia,
-technical, and civil society.”[^2]
+technical, and civil society*.”[^2]
 
 This is encapsulated in discussing the EOSC as a “Commons” – a
 management theory for natural resources that groups of people
@@ -171,7 +171,7 @@ Ostrom’s book “Governing the Commons”[^10]:
 
 [^4]: Fuster Morell, M. (2010, p. 5). Dissertation: Governance of online
     creation communities: Provision of infrastructure for the building
-    of digital commons.
+    of digital commons (<http://hdl.handle.net/1814/14709>).
 
 [^5]: <http://www.bollier.org/blog/eight-points-reference-commoning>
 
@@ -183,6 +183,7 @@ Ostrom’s book “Governing the Commons”[^10]:
 
 [^9]: <http://go.egi.eu/oscwp>
 
-[^10]: <http://www.cooperationcommons.com/Documents/EntryView?id=30>
+[^10]: Ostrom, E. Governing the Commons. The Evolution of Institutions
+    for Collective Action. Cambridge University Press. 1990.
 
 

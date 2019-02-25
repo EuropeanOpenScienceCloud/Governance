@@ -86,15 +86,22 @@ can be found on github at:
 -   **Editable version:**
     <https://github.com/EuropeanOpenScienceCloud/Governance/>
 
-[^1]: See “D2.3: 1st Report on Governance Development Forum involvement
-    and activity” and “D2.9 Report on Governance Development Board” at
+[^1]: The work of the forum is addressed in deliverables “D2.3: 1st
+    Report on Governance Development Forum involvement and activity” and
+    “D2.9: Report on Governance Development Board”. D2.3 is a
+    confidential report, and is currently only available to members of
+    the EOSCpilot Consortium and the Commission. D2.9 was awaiting
+    publication at the time of publication of this report. It will be
+    available from the EOSCpilot website at
     <https://www.eoscpilot.eu/media/deliverables>
 
-[^2]: See “D2.1: Draft Stakeholder Map” and “D2.7: Final Stakeholder
-    Map” at <https://www.eoscpilot.eu/media/deliverables>
+[^2]: See “D2.1: Draft Stakeholder Map”
+    (<https://www.eoscpilot.eu/content/d21-draft-stakeholder-map>) and
+    “D2.7: Final Stakeholder Map”
+    (<https://www.eoscpilot.eu/content/d27-final-stakeholder-map>)
 
-[^3]: See “D2.8 Report on governance piloting process” at
-    <https://www.eoscpilot.eu/media/deliverables>
+[^3]: See “D2.8 Report on governance piloting process” – awaiting
+    publication at <https://www.eoscpilot.eu/media/deliverables>
 
 [^4]: See
     <https://www.eoscpilot.eu/eosc-stakeholder-forum-shaping-future-eosc>

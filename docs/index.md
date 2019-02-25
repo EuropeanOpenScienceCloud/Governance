@@ -6,20 +6,12 @@ weight: 1
 
 title: Governance Framework for the European Open Science Cloud
 
-|             |                                                                                                                                                                                                                                                                                                                          |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Author(s)   | Matthew Dovey; Per Öster; Sergio Andreozzi; Ursula Bassler; Volker Beckmann; Juan Bicarregui; Magchiel Bijsterbosch; Sergi Girona; Anca Hienola; Saara Kontro; Leif Laaksonen; Yannick Legre; Brian Matthews; Jessica Parland-von Essen; Oriol Pineda; Dale Robertson; Stelios Sartzetakis; Matthew Scott; Sanna Sorvari |
-| Deliverable | D2.6                                                                                                                                                                                                                                                                                                                     |
-| Status      | Final                                                                                                                                                                                                                                                                                                                    |
-| Version     | V2.12                                                                                                                                                                                                                                                                                                                    |
-| Date        | 21/02/2019                                                                                                                                                                                                                                                                                                               |
+|           |                                                                                                                                                                                                                                                                                                                          |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Author(s) | Matthew Dovey; Per Öster; Sergio Andreozzi; Ursula Bassler; Volker Beckmann; Juan Bicarregui; Magchiel Bijsterbosch; Sergi Girona; Anca Hienola; Saara Kontro; Leif Laaksonen; Yannick Legre; Brian Matthews; Jessica Parland-von Essen; Oriol Pineda; Dale Robertson; Stelios Sartzetakis; Matthew Scott; Sanna Sorvari |
+| Version   | V2.12                                                                                                                                                                                                                                                                                                                    |
+| Date      | 25/02/2019                                                                                                                                                                                                                                                                                                               |
 
-| Dissemination Level |                                                                                  |
-|---------------------|----------------------------------------------------------------------------------|
-| X                   | PU: Public                                                                       |
-|                     | PP: Restricted to other programme participants (including the Commission)        |
-|                     | RE: Restricted to a group specified by the consortium (including the Commission) |
-|                     | CO: Confidential, only for members of the consortium (including the Commission)  |
 
 ***Copyright notice:*** This work is licensed under the Creative Commons
 CC-BY 4.0 license. To view a copy of this license, visit [<span
