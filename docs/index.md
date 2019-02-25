@@ -4,14 +4,13 @@ menu: false
 weight: 1
 ---
 
-title: Governance Framework for the European Open Science Cloud
+**Author(s):** Matthew Dovey; Per Öster; Sergio Andreozzi; Ursula Bassler; Volker Beckmann; Juan Bicarregui; Magchiel Bijsterbosch; Sergi Girona; Anca Hienola; Saara Kontro; Leif Laaksonen; Yannick Legre; Brian Matthews; Jessica Parland-von Essen; Oriol Pineda; Dale Robertson; Stelios Sartzetakis; Matthew Scott; Sanna Sorvari
 
-|           |                                                                                                                                                                                                                                                                                                                          |
-|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Author(s) | Matthew Dovey; Per Öster; Sergio Andreozzi; Ursula Bassler; Volker Beckmann; Juan Bicarregui; Magchiel Bijsterbosch; Sergi Girona; Anca Hienola; Saara Kontro; Leif Laaksonen; Yannick Legre; Brian Matthews; Jessica Parland-von Essen; Oriol Pineda; Dale Robertson; Stelios Sartzetakis; Matthew Scott; Sanna Sorvari |
-| Version   | V2.12                                                                                                                                                                                                                                                                                                                    |
-| Date      | 25/02/2019                                                                                                                                                                                                                                                                                                               |
+**Version:** 2.12                                                                                                                         
 
+**Date:** 25/02/2019                                                                                                                   
+
+***
 
 ***Copyright notice:*** This work is licensed under the Creative Commons
 CC-BY 4.0 license. To view a copy of this license, visit [<span
@@ -30,5 +29,3 @@ and fitness for a particular purpose.
 Neither the EOSCpilot Consortium nor any of its members, their officers,
 employees or agents shall be responsible or liable in negligence or
 otherwise howsoever in respect of any inaccuracy or omission herein.
-
-
