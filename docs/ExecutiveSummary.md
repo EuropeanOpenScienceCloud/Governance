@@ -21,7 +21,7 @@ established EOSC (i.e. post 2021), following from the implementation
 phase governance structure as detailed in the European Commission’s
 staff working document **"Implementation Roadmap for the European Open
 Science Cloud"**[^1]. This document also outlines the key differences to
-be addressed in moving from the implementation phase governance to this
+be addressed in moving from the implementation-phase governance to this
 framework, and the reasons behind these.
 
 The following report has been written at the time of the EOSC Portal

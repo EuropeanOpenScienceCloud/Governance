@@ -250,7 +250,7 @@ Staff Working Document.
 
 [^6]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
 
-[^7]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
+[^7]: <http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf>
 
 [^8]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 

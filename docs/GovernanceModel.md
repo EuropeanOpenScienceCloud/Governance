@@ -10,7 +10,7 @@ Governance Model
 Community Lead Governance
 -------------------------
 
-Ultimately the governance model should allow the engagement of all
+Ultimately, the governance model should allow the engagement of all
 stakeholders, in all stakeholder roles, such that they are peers in the
 decision making for EOSC. For this, EOSC can borrow from Community
 Governance in the public sector as typically used for local government
@@ -21,22 +21,22 @@ organisations or by citizens. To be effective, it considers three core
 community skills of *engaging citizens*, *measuring results*, and
 *getting things done* in order to help people and organisations make
 decisions about what actions to take in a community and to measure their
-impact and effectiveness.[^1] The interaction between these “skills” is
+impact and effectiveness. The interaction between these “skills” is
 shown in Figure 8.
 
 <img src="GovernanceModel/media/image1.png" style="width:6.22467in;height:2.55208in" />
 
-Figure 8 - Effective Community Governance[^2]
+Figure 8 - Effective Community Governance[^1]
 
-The EOSC Declaration[^3] defined three governance layers:
+The EOSC Declaration[^2] defined three governance layers:
 
 -   **Institutional** – including EU Member States and the European
-    Commission
+    Commission.
 
 -   **Executive/Operational** – including a governance board at the
-    executive level and relevant working committees
+    executive level and relevant working committees.
 
--   **Advisory** – including a stakeholder forum
+-   **Advisory** – including a stakeholder forum.
 
 These map very closely to the skills in the community governance model
 above. In this model, the **Advisory** layer from the declaration would
@@ -47,20 +47,20 @@ stakeholders are, and feel that they are, peers in the decision-making
 process. They should perform a role that is both advisory and guiding -
 it should provide strong guidance and direction (not just advisory) to
 the Strategic and Executive layers. Within the EC Staff Working
-Document[^4] and the Second HLEG Report[^5] this is referred to as the
+Document[^3] and the Second HLEG Report[^4] this is referred to as the
 **Stakeholder** layer.
 
-The declaration’s **Institutional** layer would define the strategic
-objectives and measure the impact and effectiveness of EOSC against
+The declaration’s **Institutional** layer defines the strategic
+objectives and measures the impact and effectiveness of EOSC against
 these objectives and so would principally map to the *Measuring Results*
-skill. Within the EC Staff Working Document[^6] and the Second HLEG
-Report[^7] this is referred to as the **Strategic** layer.
+skill. Within the EC Staff Working Document and the Second HLEG Report
+this is referred to as the **Strategic** layer.
 
 Finally, the **Executive\\Operational** layer would map to the *Getting
 Things Done* skill by ensuring that the EOSC delivers to meet the needs
 of the stakeholders through the strategic objectives set by the
-Institutional layer. Within the EC Staff Working Document[^8] and the
-Second HLEG Report[^9] this is referred to as the **Executive** layer.
+Institutional layer. Within the EC Staff Working Document and the Second
+HLEG Report this is referred to as the **Executive** layer.
 
 These layers are illustrated in Figure 9.
 
@@ -113,9 +113,9 @@ on Governance Structure).
     compliant and meet the strategic objectives.
 
 -   The **Stakeholder** layer would also communicate to the
-    **Executive** at how well the EOSC is meeting their requirements at
-    an operational level, and the **Executive** would report this
-    against the strategic objective to the Strategic layer.
+    **Executive** how well the EOSC is meeting their requirements at an
+    operational level, and the **Executive** would report this against
+    the strategic objective to the Strategic layer.
 
 For example, a scientific discipline (or disciplines) within the
 **Stakeholder** layer might define data interoperability and re-use
@@ -138,20 +138,10 @@ Figure 11 - Governance Decision Flow
 
 [^1]: <http://www.rtmteam.net/page.php?pageID=25&section=overview_of_ecg>
 
-[^2]: <http://www.rtmteam.net/page.php?pageID=25&section=overview_of_ecg>
+[^2]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
 
-[^3]: <https://ec.europa.eu/research/openscience/pdf/eosc_declaration.pdf>
+[^3]: <http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf>
 
-[^4]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
-
-[^5]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
-
-[^6]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
-
-[^7]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
-
-[^8]: [http://ec.europa.eu/research/openscience/pdf/swd\_2018\_83\_f1\_staff\_workin...](http://ec.europa.eu/research/openscience/pdf/swd_2018_83_f1_staff_working_paper_en.pdf)
-
-[^9]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
+[^4]: <https://publications.europa.eu/en/web/eu-law-and-publications/publication-detail/-/publication/5253a1af-ee10-11e8-b690-01aa75ed71a1>
 
 
